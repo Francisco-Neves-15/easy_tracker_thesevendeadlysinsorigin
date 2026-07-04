@@ -1,7 +1,7 @@
 export enum GameRaritys { legendary, hero, rare, fine, general }
 
 export enum HeroRarity { legendary, hero }
-export enum OutfitRarity { legendary, hero, other }
+export enum OutfitRarity { legendary, hero, rare }
 
 export enum RecipeKitsParts { top, bottoms, belt, boots }
 export enum RecipeKits {

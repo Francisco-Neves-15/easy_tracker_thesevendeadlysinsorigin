@@ -9,6 +9,10 @@ import {
   MetalsRarity
 } from "./infos";
 
+// Infos
+
+export enum ObtainingType { event, banner }
+
 // Recipe Kit's ==================================================
 
 export interface Model_RecipeKit {
@@ -35,24 +39,32 @@ export interface Model_Metals {
 
 // Hero ==================================================
 
+export interface Model_Hero_Outfit {
+  name: string,
+  rarity: OutfitRarity,
+  observation: string | null,
+  isDefault: boolean,
+  isAppearance: boolean,
+  isExclusive: boolean,
+  infoExclusive: {
+    title: string,
+    description: string,
+    type: ObtainingType,
+  } | null,
+  isEngraved: boolean,
+  recipe: {
+    kit: RecipeKits,
+    seal: Seals,
+    metal: Metals | null,
+  } | null
+}
+
 export interface Model_Hero {
 	name: string,
 	rarity: HeroRarity,
-	observation: string,
-	acquired: boolean,
-	outfits: [
-		{
-			name: string,
-			rarity: OutfitRarity,
-			observation: string,
-			isDefault: boolean,
-			isPaid: boolean,
-			isEngraved: boolean,
-			recipe: {
-				kit: RecipeKits,
-				seal: Seals,
-				metal: Metals,
-			}
-		}
-	]
+	observation: string | null,
+	outfits: Model_Hero_Outfit[] | null
 }
+
+// User
+// 	acquired: boolean
