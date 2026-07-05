@@ -1,4 +1,4 @@
-import { Model_Hero, ObtainingType } from "./models";
+import { Model_Hero, ObtainingType, ObtainingTypeEvent } from "./models";
 import { HeroRarity, OutfitRarity, RecipeKits, Seals, Metals } from "./infos";
 
 const all_heroes: Model_Hero[] = [
@@ -1249,6 +1249,7 @@ const all_heroes: Model_Hero[] = [
           title: "A midsummer Day's Dream",
           description: "Core Reward",
           type: ObtainingType.event,
+          typeEvent: ObtainingTypeEvent.recurringMissions
         },
         isEngraved: false,
         recipe: null
@@ -1325,9 +1326,10 @@ const all_heroes: Model_Hero[] = [
         isAppearance: true,
         isExclusive: true,
         infoExclusive: {
-          title: "> NEED-TO-SEARCH <",
-          description: "",
+          title: "Sacred Treasure: Demon Sword Lostvayne",
+          description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1407,6 +1409,7 @@ const all_heroes: Model_Hero[] = [
           title: "The Fresh Scent of Autumn",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1483,9 +1486,10 @@ const all_heroes: Model_Hero[] = [
         isAppearance: true,
         isExclusive: true,
         infoExclusive: {
-          title: "> NEED-TO-SEARCH <",
+          title: "Sacred Treasure: Sacred Axe Rhitta",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1498,9 +1502,10 @@ const all_heroes: Model_Hero[] = [
         isAppearance: true,
         isExclusive: true,
         infoExclusive: {
-          title: "> NEED-TO-SEARCH <",
-          description: "Login Reward",
+          title: "Promise of Hope",
+          description: "Purchased from the Event Shop for: 150 Shiny Gold Tokens.",
           type: ObtainingType.event,
+          typeEvent: ObtainingTypeEvent.fixedMissions
         },
         isEngraved: false,
         recipe: null
@@ -1577,9 +1582,10 @@ const all_heroes: Model_Hero[] = [
         isAppearance: true,
         isExclusive: true,
         infoExclusive: {
-          title: "> NEED-TO-SEARCH <",
+          title: "Moonlight Across the Dawn",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1595,6 +1601,7 @@ const all_heroes: Model_Hero[] = [
           title: "Vision of the Azure Waves",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1656,9 +1663,10 @@ const all_heroes: Model_Hero[] = [
         isAppearance: true,
         isExclusive: true,
         infoExclusive: {
-          title: "> NEED-TO-SEARCH <",
+          title: "Sacred Treasure: Morning Star Aldan",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1674,6 +1682,7 @@ const all_heroes: Model_Hero[] = [
           title: "Vision of the Azure Waves",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null
@@ -1738,6 +1747,7 @@ const all_heroes: Model_Hero[] = [
           title: "The Resonance of a Noble Heart",
           description: "Top Tier Reward",
           type: ObtainingType.banner,
+          typeEvent: null
         },
         isEngraved: false,
         recipe: null

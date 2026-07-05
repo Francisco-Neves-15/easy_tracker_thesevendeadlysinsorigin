@@ -12,6 +12,7 @@ import {
 // Infos
 
 export enum ObtainingType { event, banner }
+export enum ObtainingTypeEvent { fixedMissions, recurringMissions }
 
 // Recipe Kit's ==================================================
 
@@ -50,6 +51,7 @@ export interface Model_Hero_Outfit {
     title: string,
     description: string,
     type: ObtainingType,
+    typeEvent: ObtainingTypeEvent | null,
   } | null,
   isEngraved: boolean,
   recipe: {
