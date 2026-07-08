@@ -1,7 +1,7 @@
 import { Model_Hero, ObtainingType, ObtainingTypeEvent } from "./models";
 import { HeroRarity, OutfitRarity, RecipeKits, Seals, Metals } from "./infos";
 
-const all_heroes: Model_Hero[] = [
+export const all_heroes: Model_Hero[] = [
   // Tristan
   {
     name: "Tristan",

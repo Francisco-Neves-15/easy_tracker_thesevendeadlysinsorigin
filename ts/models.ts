@@ -40,6 +40,19 @@ export interface Model_Metals {
 
 // Hero ==================================================
 
+interface Model_InfoExclusive {
+  title: string,
+  description: string,
+  type: ObtainingType,
+  typeEvent: ObtainingTypeEvent | null,
+}
+
+interface Model_Outfit_Recipe {
+  kit: RecipeKits,
+  seal: Seals,
+  metal: Metals | null,
+}
+
 export interface Model_Hero_Outfit {
   name: string,
   rarity: OutfitRarity,
@@ -47,18 +60,9 @@ export interface Model_Hero_Outfit {
   isDefault: boolean,
   isAppearance: boolean,
   isExclusive: boolean,
-  infoExclusive: {
-    title: string,
-    description: string,
-    type: ObtainingType,
-    typeEvent: ObtainingTypeEvent | null,
-  } | null,
+  infoExclusive: Model_InfoExclusive | null,
   isEngraved: boolean,
-  recipe: {
-    kit: RecipeKits,
-    seal: Seals,
-    metal: Metals | null,
-  } | null
+  recipe: Model_Outfit_Recipe | null
 }
 
 export interface Model_Hero {
@@ -69,4 +73,13 @@ export interface Model_Hero {
 }
 
 // User
-// 	acquired: boolean
+export interface User_Model_Hero_Outfit {
+  name: string,
+  recipe: Model_Outfit_Recipe,
+  acquired: boolean
+}
+
+export interface User_Model_Hero {
+  name: string,
+  acquired: boolean
+}
