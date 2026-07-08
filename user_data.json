@@ -4,6 +4,24 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Prince's Training Outfit",
+        "recipe": {
+          "kit": "l",
+          "seal": "we",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
+        "name": "Formal Attire",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Royal Dignity",
         "recipe": {
           "kit": "sg",
@@ -36,6 +54,15 @@
     "name": "Tioreh",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Casual Outing",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Daughter of the Forest and Earth",
         "recipe": {
@@ -70,6 +97,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Exemplary Holy Knight",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Holy Knight of Lightning",
         "recipe": {
           "kit": "sg",
@@ -94,6 +130,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "End-of-Day Mug of Ale",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Holy Knight of Storms",
         "recipe": {
           "kit": "sg",
@@ -117,6 +162,15 @@
     "name": "Dredrin",
     "acquired": false,
     "outfits": [
+      {
+        "name": "A Nice Day Off",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Descendant of Royalty",
         "recipe": {
@@ -151,6 +205,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Demon's Outing",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Shadow Walk",
         "recipe": {
           "kit": "sg",
@@ -175,6 +238,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Temp Employee",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Guiding Light",
         "recipe": {
           "kit": "sg",
@@ -198,6 +270,15 @@
     "name": "Dreyfus",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Royal Butler",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Old Soldier's Honor",
         "recipe": {
@@ -232,6 +313,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Romantic Gray",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "A Suit From Younger Days",
         "recipe": {
           "kit": "sg",
@@ -264,6 +354,15 @@
     "name": "Slater",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Loyal Friend",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Sword of the Old King",
         "recipe": {
@@ -298,6 +397,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Family Time",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Holy Knight of Explosions",
         "recipe": {
           "kit": "sg",
@@ -331,6 +439,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Casual Outing",
+        "recipe": {
+          "kit": "fe",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Holy Knight of the Iron Wall",
         "recipe": {
           "kit": "sg",
@@ -354,6 +471,15 @@
     "name": "Jericho",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Leisurely Moment",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Holy Knight With the Star-Shaped Visor",
         "recipe": {
@@ -388,6 +514,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Forest's Footsteps",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "<The Grizzly Sin of Sloth>",
         "recipe": {
           "kit": "sg",
@@ -411,6 +546,15 @@
     "name": "Diane",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Tavern Hostess",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "<The Serpent Sin of Envy>",
         "recipe": {
@@ -436,6 +580,15 @@
     "acquired": false,
     "outfits": [
       {
+        "name": "Oath of the Throne",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
+      {
         "name": "Glory of the Past",
         "recipe": {
           "kit": "sg",
@@ -459,6 +612,15 @@
     "name": "Mannie",
     "acquired": false,
     "outfits": [
+      {
+        "name": "Heart of Prayer",
+        "recipe": {
+          "kit": "th",
+          "seal": "ss",
+          "metal": null
+        },
+        "acquired": false
+      },
       {
         "name": "Arch Priestess's Prestige",
         "recipe": {

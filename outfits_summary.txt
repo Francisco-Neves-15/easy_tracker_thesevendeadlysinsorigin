@@ -4,94 +4,112 @@
 
 [Herói]: Tristan (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Prince's Training Outfit (Kit: l, Seal: we)
+    - Formal Attire (Kit: fe, Seal: ss)
     - Royal Dignity (Kit: sg, Seal: bs)
     - Prince's Adventure (Kit: rn, Seal: bs)
     - Prince's Vow (Kit: tw, Seal: bs)
 --------------------------------------------------
 [Herói]: Tioreh (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Casual Outing (Kit: fe, Seal: ss)
     - Daughter of the Forest and Earth (Kit: sg, Seal: bs)
     - Adventure's Beginning (Kit: rn, Seal: bs)
     - Fairy's Protection (Kit: tw, Seal: bs)
 --------------------------------------------------
 [Herói]: Gilthunder (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Exemplary Holy Knight (Kit: fe, Seal: ss)
     - Holy Knight of Lightning (Kit: sg, Seal: bs)
     - Exemplary Adventure (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Howzer (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - End-of-Day Mug of Ale (Kit: fe, Seal: ss)
     - Holy Knight of Storms (Kit: sg, Seal: bs)
     - Secure Adventure (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Dredrin (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - A Nice Day Off (Kit: fe, Seal: ss)
     - Descendant of Royalty (Kit: sg, Seal: bs)
     - Thorough Preparation (Kit: rn, Seal: bs)
     - Solid Defense (Kit: tw, Seal: bs)
 --------------------------------------------------
 [Herói]: Bug (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Demon's Outing (Kit: fe, Seal: ss)
     - Shadow Walk (Kit: sg, Seal: bs)
     - Demon's Stealth (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Elaine (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Temp Employee (Kit: th, Seal: ss)
     - Guiding Light (Kit: sg, Seal: bs)
     - Cheerful Outing (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Dreyfus (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Royal Butler (Kit: fe, Seal: ss)
     - Old Soldier's Honor (Kit: sg, Seal: bs)
     - Simple Attire (Kit: rn, Seal: bs)
     - Honorable Knight (Kit: fw, Seal: bs)
 --------------------------------------------------
 [Herói]: Hendrickson (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Romantic Gray (Kit: fe, Seal: ss)
     - A Suit From Younger Days (Kit: sg, Seal: bs)
     - Apothecary's Workwear (Kit: rn, Seal: bs)
     - Returned Holy Knight (Kit: fw, Seal: bs)
 --------------------------------------------------
 [Herói]: Slater (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Loyal Friend (Kit: fe, Seal: ss)
     - Sword of the Old King (Kit: sg, Seal: bs)
     - Secret Mission (Kit: rn, Seal: bs)
     - Total Readiness (Kit: tw, Seal: bs)
 --------------------------------------------------
 [Herói]: Guila (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Family Time (Kit: th, Seal: ss)
     - Holy Knight of Explosions (Kit: sg, Seal: bs)
     - Light Footsteps (Kit: rn, Seal: bs)
     - Crimson Flame's Trail (Kit: tw, Seal: bs)
 --------------------------------------------------
 [Herói]: Griamore (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Casual Outing (Kit: fe, Seal: ss)
     - Holy Knight of the Iron Wall (Kit: sg, Seal: bs)
     - Makeshift Barricade (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Jericho (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Leisurely Moment (Kit: th, Seal: ss)
     - Holy Knight With the Star-Shaped Visor (Kit: sg, Seal: bs)
     - Secretive Traveler (Kit: rn, Seal: bs)
     - Trace of Memories (Kit: fw, Seal: bs)
 --------------------------------------------------
 [Herói]: King (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Forest's Footsteps (Kit: th, Seal: ss)
     - <The Grizzly Sin of Sloth> (Kit: sg, Seal: bs)
     - Shadow of the Deep Forest (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Diane (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Tavern Hostess (Kit: th, Seal: ss)
     - <The Serpent Sin of Envy> (Kit: sg, Seal: bs)
     - Cheerful Girl (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Drake (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Oath of the Throne (Kit: th, Seal: ss)
     - Glory of the Past (Kit: sg, Seal: bs)
     - Shadow Lord (Kit: rn, Seal: bs)
 --------------------------------------------------
 [Herói]: Mannie (Não Adquirido)
   Roupas Pendentes de Gravação:
+    - Heart of Prayer (Kit: th, Seal: ss)
     - Arch Priestess's Prestige (Kit: sg, Seal: bs)
     - Exploration of the Unknown (Kit: rn, Seal: bs)
     - Holy Ritual (Kit: fw, Seal: bs)
