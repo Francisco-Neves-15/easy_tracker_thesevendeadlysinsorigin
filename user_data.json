@@ -1,0 +1,671 @@
+[
+  {
+    "name": "Tristan",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Royal Dignity",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Prince's Adventure",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Prince's Vow",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Tioreh",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Daughter of the Forest and Earth",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Adventure's Beginning",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Fairy's Protection",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Gilthunder",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Holy Knight of Lightning",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Exemplary Adventure",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Howzer",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Holy Knight of Storms",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Secure Adventure",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Dredrin",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Descendant of Royalty",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Thorough Preparation",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Solid Defense",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Bug",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Shadow Walk",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Demon's Stealth",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Elaine",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Guiding Light",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Cheerful Outing",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Dreyfus",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Old Soldier's Honor",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Simple Attire",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Honorable Knight",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Hendrickson",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "A Suit From Younger Days",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Apothecary's Workwear",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Returned Holy Knight",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Slater",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Sword of the Old King",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Secret Mission",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Total Readiness",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Guila",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Holy Knight of Explosions",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Light Footsteps",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Crimson Flame's Trail",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Griamore",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Holy Knight of the Iron Wall",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Makeshift Barricade",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Jericho",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Holy Knight With the Star-Shaped Visor",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Secretive Traveler",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Trace of Memories",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "King",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "<The Grizzly Sin of Sloth>",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Shadow of the Deep Forest",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Diane",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "<The Serpent Sin of Envy>",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Cheerful Girl",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Drake",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Glory of the Past",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Shadow Lord",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Mannie",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Arch Priestess's Prestige",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Exploration of the Unknown",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Holy Ritual",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Meliodas",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "A New Adventure",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Simple Defense",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Most Malevolent Majesty",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Daisy",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Small Explorer",
+        "recipe": {
+          "kit": "sg",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Spirit of Exploration",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Spring Robe",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Escanor",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Northern Wildness",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Sufficient Arrogance",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Golden Dignity",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Clotho",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Explorer's Activewear",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Head Scholar's Formality",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Light Party Outfit",
+        "recipe": {
+          "kit": "rn",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Merlin",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Light Formalwear",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "The Boar Sin of Gluttony",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth",
+    "acquired": false,
+    "outfits": [
+      {
+        "name": "Hero of Liones",
+        "recipe": {
+          "kit": "fw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      },
+      {
+        "name": "Star of the Tavern",
+        "recipe": {
+          "kit": "tw",
+          "seal": "bs",
+          "metal": "em"
+        },
+        "acquired": false
+      }
+    ]
+  }
+]
