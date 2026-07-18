@@ -11,7 +11,8 @@ export enum RecipeKits {
 	/** Star Guardian */ sg,
 	/** Revived Nightmare */ rn,
 	/** Twisted Wish */ tw,
-	/** Ferocius Watcher's */ fw
+	/** Ferocius Watcher's */ fw,
+	/** Corroded Desire */ cd
 }
 export enum RecipeKitRarity { legendary, hero, fine }
 

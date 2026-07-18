@@ -49,6 +49,11 @@ export const all_recipeKits: Model_RecipeKit[] = [
 		rarity: RecipeKitRarity.legendary,
 		name: "Ferocius Watcher's",
 	},
+	{
+		abbreviation: RecipeKits.cd,
+		rarity: RecipeKitRarity.legendary,
+		name: "Corroded Desire",
+	}
 ]
 
 export const all_seals: Model_Seals[] = [

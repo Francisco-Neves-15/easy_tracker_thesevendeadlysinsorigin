@@ -233,6 +233,21 @@ export const all_heroes: Model_Hero[] = [
           "seal": Seals.bs,
           "metal": Metals.em
         }
+      },
+      {
+        "name": "Promising Holy Knight",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
       }
     ]
   },
@@ -497,6 +512,21 @@ export const all_heroes: Model_Hero[] = [
         "isEngraved": true,
         "recipe": {
           "kit": RecipeKits.rn,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
+      },
+      {
+        "name": "Saintess's Dignity",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
           "seal": Seals.bs,
           "metal": Metals.em
         }
@@ -1079,6 +1109,21 @@ export const all_heroes: Model_Hero[] = [
           "seal": Seals.bs,
           "metal": Metals.em
         }
+      },
+      {
+        "name": "Spiked Combat Outfit",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
       }
     ]
   },
@@ -1139,6 +1184,21 @@ export const all_heroes: Model_Hero[] = [
         "isEngraved": true,
         "recipe": {
           "kit": RecipeKits.rn,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
+      },
+      {
+        "name": "Imperial Knight",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
           "seal": Seals.bs,
           "metal": Metals.em
         }
@@ -1634,6 +1694,21 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
+        "name": "Seeker of Knowledge",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
+      },
+      {
         "name": "Witch's Banquet",
         "rarity": OutfitRarity.legendary,
         "observation": null,
@@ -1722,6 +1797,70 @@ export const all_heroes: Model_Hero[] = [
         "isExclusive": true,
         "infoExclusive": {
           "title": "The Resonance of a Noble Heart",
+          "description": "Top Tier Reward",
+          "type": ObtainingType.banner,
+          "typeEvent": null
+        },
+        "isEngraved": false,
+        "recipe": null
+      }
+    ]
+  },
+  {
+    "name": "Gowther",
+    "rarity": HeroRarity.legendary,
+    "observation": null,
+    "outfits": [
+      {
+        "name": "Heartless Doll",
+        "rarity": OutfitRarity.rare,
+        "observation": null,
+        "isDefault": true,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
+        "name": "Secret Date Night Look",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.fw,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
+      },
+      {
+        "name": "<The Goat Sin of Lust>",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": RecipeKits.cd,
+          "seal": Seals.bs,
+          "metal": Metals.em
+        }
+      },
+      {
+        "name": "Journey of Self-discovery",
+        "rarity": OutfitRarity.legendary,
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "A Journey to Find Myself",
           "description": "Top Tier Reward",
           "type": ObtainingType.banner,
           "typeEvent": null
