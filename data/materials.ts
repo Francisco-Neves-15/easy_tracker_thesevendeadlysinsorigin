@@ -4,80 +4,71 @@ import {
   Model_Metals
 } from "./models"
 
-import {
-  RecipeKits,
-  RecipeKitRarity,
-  Seals,
-  SealsRarity,
-  Metals,
-  MetalsRarity
-} from "./infos";
-
 export const all_recipeKits: Model_RecipeKit[] = [
 	{
-		abbreviation: RecipeKits.l,
-		rarity: RecipeKitRarity.fine,
+		id: "liones",
+		rarity: "fine",
 		name: "Liones",
 	},
 	{
-		abbreviation: RecipeKits.th,
-		rarity: RecipeKitRarity.hero,
+		id: "thunderous",
+		rarity: "hero",
 		name: "Thunderous (Finest)",
 	},
 	{
-		abbreviation: RecipeKits.fe,
-		rarity: RecipeKitRarity.hero,
+		id: "fiery-essence",
+		rarity: "hero",
 		name: "Fiery Essence (Finest)",
 	},
 	{
-		abbreviation: RecipeKits.sg,
-		rarity: RecipeKitRarity.legendary,
+		id: "star-guardian",
+		rarity: "legendary",
 		name: "Star Guardian",
 	},
 	{
-		abbreviation: RecipeKits.rn,
-		rarity: RecipeKitRarity.legendary,
+		id: "revived-nightmare",
+		rarity: "legendary",
 		name: "Revived Nightmare",
 	},
 	{
-		abbreviation: RecipeKits.tw,
-		rarity: RecipeKitRarity.legendary,
+		id: "twisted-wish",
+		rarity: "legendary",
 		name: "Twisted Wish",
 	},
 	{
-		abbreviation: RecipeKits.fw,
-		rarity: RecipeKitRarity.legendary,
+		id: "ferocius-watchers",
+		rarity: "legendary",
 		name: "Ferocius Watcher's",
 	},
 	{
-		abbreviation: RecipeKits.cd,
-		rarity: RecipeKitRarity.legendary,
+		id: "corroded-desire",
+		rarity: "legendary",
 		name: "Corroded Desire",
 	}
 ]
 
 export const all_seals: Model_Seals[] = [
 	{
-		abbreviation: Seals.we,
-		rarity: SealsRarity.general,
+		id: "worm",
+		rarity: "general",
 		name: "Worn Engraving Seal",
 	},
 	{
-		abbreviation: Seals.ss,
-		rarity: SealsRarity.hero,
+		id: "sturdy",
+		rarity: "hero",
 		name: "Sturdy Engraving Seal",
 	},
 	{
-		abbreviation: Seals.bs,
-		rarity: SealsRarity.legendary,
+		id: "brilliant",
+		rarity: "legendary",
 		name: "Brilliant Engraving Seal",
 	}
 ]
 
 export const all_metals: Model_Metals[] = [
 	{
-		abbreviation: Metals.em,
-		rarity: MetalsRarity.hero,
+		id: "enhanced",
+		rarity: "hero",
 		name: "Magic-infused Enhanced Metal",
 	}
 ]

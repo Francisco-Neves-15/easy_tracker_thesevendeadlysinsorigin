@@ -1,15 +1,14 @@
-import { Model_Hero, ObtainingType, ObtainingTypeEvent } from "./models";
-import { HeroRarity, OutfitRarity, RecipeKits, Seals, Metals } from "./infos";
+import { Model_Hero } from "./models";
 
 export const all_heroes: Model_Hero[] = [
   {
     "name": "Tristan",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Little Prince",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -20,7 +19,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Prince's Training Outfit",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": "Tutorial Outfit",
         "isDefault": false,
         "isAppearance": false,
@@ -28,14 +27,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.l,
-          "seal": Seals.we,
+          "kit": "liones",
+          "seal": "worm",
           "metal": null
         }
       },
       {
         "name": "Formal Attire",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -43,14 +42,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Royal Dignity",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -58,14 +57,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Prince's Adventure",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -73,14 +72,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Prince's Vow",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -88,21 +87,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Tioreh",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Adorable Fairy",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -113,7 +112,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Casual Outing",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -121,14 +120,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Daughter of the Forest and Earth",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -136,14 +135,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Adventure's Beginning",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -151,14 +150,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Fairy's Protection",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -166,21 +165,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Gilthunder",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Young Holy Knight",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -191,7 +190,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Exemplary Holy Knight",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -199,14 +198,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Holy Knight of Lightning",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -214,14 +213,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Exemplary Adventure",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -229,14 +228,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Promising Holy Knight",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -244,21 +243,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Howzer",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Trusted Grandmaster",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -269,7 +268,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "End-of-Day Mug of Ale",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -277,14 +276,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Holy Knight of Storms",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -292,14 +291,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Secure Adventure",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -307,21 +306,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Dredrin",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Friendly Apprentice Holy Knight",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -332,7 +331,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "A Nice Day Off",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -340,14 +339,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Descendant of Royalty",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -355,14 +354,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Thorough Preparation",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -370,14 +369,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Solid Defense",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -385,21 +384,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Bug",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Shy Demon",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -410,7 +409,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Demon's Outing",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -418,14 +417,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Shadow Walk",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -433,14 +432,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Demon's Stealth",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -448,21 +447,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Elaine",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Guardian Saint of the Fountain of Youth",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -473,7 +472,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Temp Employee",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -481,14 +480,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Guiding Light",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -496,14 +495,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Cheerful Outing",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -511,14 +510,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Saintess's Dignity",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -526,21 +525,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Dreyfus",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Kingdom Sword Art Instructor",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -551,7 +550,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Royal Butler",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -559,14 +558,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Old Soldier's Honor",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -574,14 +573,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Simple Attire",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -589,14 +588,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Honorable Knight",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -604,21 +603,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Hendrickson",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Liones Apothecary",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -629,7 +628,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Romantic Gray",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -637,14 +636,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "A Suit From Younger Days",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -652,14 +651,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Apothecary's Workwear",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -667,14 +666,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Returned Holy Knight",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -682,21 +681,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Slater",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "Veteran Holy Knight",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -707,7 +706,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Loyal Friend",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -715,14 +714,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Sword of the Old King",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -730,14 +729,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Secret Mission",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -745,14 +744,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Total Readiness",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -760,21 +759,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Guila",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "One and Only Holy Knight",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -785,7 +784,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Family Time",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -793,14 +792,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Holy Knight of Explosions",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -808,14 +807,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Light Footsteps",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -823,14 +822,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Crimson Flame's Trail",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -838,21 +837,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Griamore",
-    "rarity": HeroRarity.hero,
+    "rarity": "hero",
     "observation": null,
     "outfits": [
       {
         "name": "",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -863,7 +862,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Casual Outing",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -871,14 +870,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fe,
-          "seal": Seals.ss,
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Holy Knight of the Iron Wall",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -886,14 +885,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Makeshift Barricade",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -901,21 +900,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Jericho",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Runaway Holy Knight",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -926,7 +925,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Leisurely Moment",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -934,14 +933,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Holy Knight With the Star-Shaped Visor",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -949,14 +948,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Secretive Traveler",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -964,14 +963,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Trace of Memories",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -979,21 +978,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "King",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Inexperienced Fairy King",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1004,7 +1003,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Forest's Footsteps",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1012,14 +1011,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "<The Grizzly Sin of Sloth>",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1027,14 +1026,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Shadow of the Deep Forest",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1042,21 +1041,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Diane",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Giant Girl in Love",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1067,7 +1066,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Tavern Hostess",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1075,14 +1074,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "<The Serpent Sin of Envy>",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1090,14 +1089,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Cheerful Girl",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1105,14 +1104,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Spiked Combat Outfit",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1120,21 +1119,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Drake",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Dragon Descendent",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1145,7 +1144,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Oath of the Throne",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1153,14 +1152,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Glory of the Past",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1168,14 +1167,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Shadow Lord",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1183,14 +1182,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Imperial Knight",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1198,21 +1197,21 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       }
     ]
   },
   {
     "name": "Mannie",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Exalted Priestess",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1223,7 +1222,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Heart of Prayer",
-        "rarity": OutfitRarity.hero,
+        "rarity": "hero",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1231,14 +1230,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.th,
-          "seal": Seals.ss,
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         }
       },
       {
         "name": "Arch Priestess's Prestige",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1246,14 +1245,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Exploration of the Unknown",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1261,14 +1260,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Holy Ritual",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1276,14 +1275,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Azure Coral Reef",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1291,8 +1290,8 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "A midsummer Day's Dream",
           "description": "Core Reward",
-          "type": ObtainingType.event,
-          "typeEvent": ObtainingTypeEvent.recurringMissions
+          "type": "event",
+          "typeEvent": "recurringMissions"
         },
         "isEngraved": false,
         "recipe": null
@@ -1301,12 +1300,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Meliodas",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1317,7 +1316,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "A New Adventure",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1325,14 +1324,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Simple Defense",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1340,14 +1339,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Most Malevolent Majesty",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1355,14 +1354,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "<The Dragon Sin of Wrath>",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1370,7 +1369,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Sacred Treasure: Demon Sword Lostvayne",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1380,12 +1379,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Daisy",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Fairy of the Past",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1396,7 +1395,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Small Explorer",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1404,14 +1403,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.sg,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Spirit of Exploration",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1419,14 +1418,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Spring Robe",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1434,14 +1433,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Autumn Scent",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1449,7 +1448,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "The Fresh Scent of Autumn",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1459,12 +1458,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Escanor",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Arrogant Poet",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1475,7 +1474,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Northern Wildness",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1483,14 +1482,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Sufficient Arrogance",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1498,14 +1497,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Golden Dignity",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1513,14 +1512,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "<The Lion Sin of Pride>",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1528,7 +1527,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Sacred Treasure: Sacred Axe Rhitta",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1536,7 +1535,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Epitome of Pride",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1544,8 +1543,8 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Promise of Hope",
           "description": "Purchased from the Event Shop for: 150 Shiny Gold Tokens.",
-          "type": ObtainingType.event,
-          "typeEvent": ObtainingTypeEvent.fixedMissions
+          "type": "event",
+          "typeEvent": "fixedMissions"
         },
         "isEngraved": false,
         "recipe": null
@@ -1554,12 +1553,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Clotho",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Explorer's Uniform",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1570,7 +1569,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Explorer's Activewear",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1578,14 +1577,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Head Scholar's Formality",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1593,14 +1592,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Light Party Outfit",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1608,14 +1607,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.rn,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Dawn Moon's Play",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1623,7 +1622,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Moonlight Across the Dawn",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1631,7 +1630,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Starlight Shadow",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1639,7 +1638,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Vision of the Azure Waves",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1649,12 +1648,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Merlin",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Esoteric Great Mage",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1665,7 +1664,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Light Formalwear",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1673,14 +1672,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "The Boar Sin of Gluttony",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1688,14 +1687,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Seeker of Knowledge",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1703,14 +1702,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Witch's Banquet",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1718,7 +1717,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Sacred Treasure: Morning Star Aldan",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1726,7 +1725,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Seaside Frolic",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1734,7 +1733,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "Vision of the Azure Waves",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1744,12 +1743,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Elizabeth",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Midsummer Reverie",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1760,7 +1759,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Hero of Liones",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1768,14 +1767,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Star of the Tavern",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1783,14 +1782,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.tw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "The Princess Who Regained Her Memory",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1798,7 +1797,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "The Resonance of a Noble Heart",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,
@@ -1808,12 +1807,12 @@ export const all_heroes: Model_Hero[] = [
   },
   {
     "name": "Gowther",
-    "rarity": HeroRarity.legendary,
+    "rarity": "legendary",
     "observation": null,
     "outfits": [
       {
         "name": "Heartless Doll",
-        "rarity": OutfitRarity.rare,
+        "rarity": "hero",
         "observation": null,
         "isDefault": true,
         "isAppearance": false,
@@ -1824,7 +1823,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "name": "Secret Date Night Look",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1832,14 +1831,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.fw,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "<The Goat Sin of Lust>",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": false,
@@ -1847,14 +1846,14 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": null,
         "isEngraved": true,
         "recipe": {
-          "kit": RecipeKits.cd,
-          "seal": Seals.bs,
-          "metal": Metals.em
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         }
       },
       {
         "name": "Journey of Self-discovery",
-        "rarity": OutfitRarity.legendary,
+        "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
@@ -1862,7 +1861,7 @@ export const all_heroes: Model_Hero[] = [
         "infoExclusive": {
           "title": "A Journey to Find Myself",
           "description": "Top Tier Reward",
-          "type": ObtainingType.banner,
+          "type": "banner",
           "typeEvent": null
         },
         "isEngraved": false,

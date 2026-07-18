@@ -11,13 +11,13 @@ import {
 
 // Infos
 
-export enum ObtainingType { event, banner }
-export enum ObtainingTypeEvent { fixedMissions, recurringMissions }
+export type ObtainingType = "event" | "banner"
+export type ObtainingTypeEvent = "fixedMissions" | "recurringMissions"
 
 // Recipe Kit's ==================================================
 
 export interface Model_RecipeKit {
-	abbreviation: RecipeKits,
+	id: RecipeKits,
 	rarity: RecipeKitRarity,
 	name: string,
 }
@@ -25,7 +25,7 @@ export interface Model_RecipeKit {
 // Seals ==================================================
 
 export interface Model_Seals {
-	abbreviation: Seals,
+	id: Seals,
 	rarity: SealsRarity,
 	name: string,
 }
@@ -33,7 +33,7 @@ export interface Model_Seals {
 // Metals ==================================================
 
 export interface Model_Metals {
-	abbreviation: Metals,
+	id: Metals,
 	rarity: MetalsRarity,
 	name: string,
 }
