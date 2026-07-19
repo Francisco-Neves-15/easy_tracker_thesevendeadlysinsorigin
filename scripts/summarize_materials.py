@@ -16,15 +16,18 @@ def generate_materials_summary():
     mat_names = parse_materials_names(materials_path)
     
     with open(user_json_path, 'r', encoding='utf-8') as f:
-        user_heroes = json.load(f)
+        try:
+            user_heroes = json.load(f)
+        except json.JSONDecodeError as error:
+            raise ValueError(f"user_data.json inválido: {error}") from error
 
     # Estrutura para consolidação: { 'key': {'total': 0, 'missing': 0} }
     summary = {}
 
     def add_to_summary(mat_type, key, is_missing):
         if not key or key == "null": return
-        # Usa o nome amigável do item se houver, caso contrário mantém a sigla do Enum
-        display_name = mat_names.get(key, f"{mat_type}.{key}")
+        # Usa o nome amigável do item se houver, caso contrário mantém o ID.
+        display_name = mat_names.get(key, key)
         
         if display_name not in summary:
             summary[display_name] = {"total": 0, "missing": 0}

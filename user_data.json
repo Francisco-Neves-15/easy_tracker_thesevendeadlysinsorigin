@@ -1,830 +1,1007 @@
 [
   {
+    "id": "hero-tristan",
     "name": "Tristan",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-tristan-prince_s_training_outfit",
         "name": "Prince's Training Outfit",
         "recipe": {
-          "kit": "l",
-          "seal": "we",
+          "kit": "liones",
+          "seal": "worm",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-tristan-formal_attire",
         "name": "Formal Attire",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-tristan-royal_dignity",
         "name": "Royal Dignity",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-tristan-prince_s_adventure",
         "name": "Prince's Adventure",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-tristan-prince_s_vow",
         "name": "Prince's Vow",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-tioreh",
     "name": "Tioreh",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-tioreh-casual_outing",
         "name": "Casual Outing",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-tioreh-daughter_of_the_forest_and_earth",
         "name": "Daughter of the Forest and Earth",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-tioreh-adventure_s_beginning",
         "name": "Adventure's Beginning",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-tioreh-fairy_s_protection",
         "name": "Fairy's Protection",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-gilthunder",
     "name": "Gilthunder",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-gilthunder-exemplary_holy_knight",
         "name": "Exemplary Holy Knight",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-gilthunder-holy_knight_of_lightning",
         "name": "Holy Knight of Lightning",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-gilthunder-exemplary_adventure",
         "name": "Exemplary Adventure",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-gilthunder-promising_holy_knight",
+        "name": "Promising Holy Knight",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-howzer",
     "name": "Howzer",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-howzer-end_of_day_mug_of_ale",
         "name": "End-of-Day Mug of Ale",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-howzer-holy_knight_of_storms",
         "name": "Holy Knight of Storms",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-howzer-secure_adventure",
         "name": "Secure Adventure",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-dredrin",
     "name": "Dredrin",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-dredrin-a_nice_day_off",
         "name": "A Nice Day Off",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-dredrin-descendant_of_royalty",
         "name": "Descendant of Royalty",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-dredrin-thorough_preparation",
         "name": "Thorough Preparation",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-dredrin-solid_defense",
         "name": "Solid Defense",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-bug",
     "name": "Bug",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-bug-demon_s_outing",
         "name": "Demon's Outing",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-bug-shadow_walk",
         "name": "Shadow Walk",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-bug-demon_s_stealth",
         "name": "Demon's Stealth",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-elaine",
     "name": "Elaine",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-elaine-temp_employee",
         "name": "Temp Employee",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-elaine-guiding_light",
         "name": "Guiding Light",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-elaine-cheerful_outing",
         "name": "Cheerful Outing",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-elaine-saintess_s_dignity",
+        "name": "Saintess's Dignity",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-dreyfus",
     "name": "Dreyfus",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-dreyfus-royal_butler",
         "name": "Royal Butler",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-dreyfus-old_soldier_s_honor",
         "name": "Old Soldier's Honor",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-dreyfus-simple_attire",
         "name": "Simple Attire",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-dreyfus-honorable_knight",
         "name": "Honorable Knight",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-hendrickson",
     "name": "Hendrickson",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-hendrickson-romantic_gray",
         "name": "Romantic Gray",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-hendrickson-a_suit_from_younger_days",
         "name": "A Suit From Younger Days",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-hendrickson-apothecary_s_workwear",
         "name": "Apothecary's Workwear",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-hendrickson-returned_holy_knight",
         "name": "Returned Holy Knight",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-slater",
     "name": "Slater",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-slater-loyal_friend",
         "name": "Loyal Friend",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-slater-sword_of_the_old_king",
         "name": "Sword of the Old King",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-slater-secret_mission",
         "name": "Secret Mission",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-slater-total_readiness",
         "name": "Total Readiness",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-guila",
     "name": "Guila",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-guila-family_time",
         "name": "Family Time",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-guila-holy_knight_of_explosions",
         "name": "Holy Knight of Explosions",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-guila-light_footsteps",
         "name": "Light Footsteps",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-guila-crimson_flame_s_trail",
         "name": "Crimson Flame's Trail",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-griamore",
     "name": "Griamore",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-griamore-casual_outing",
         "name": "Casual Outing",
         "recipe": {
-          "kit": "fe",
-          "seal": "ss",
+          "kit": "fiery-essence",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-griamore-holy_knight_of_the_iron_wall",
         "name": "Holy Knight of the Iron Wall",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-griamore-makeshift_barricade",
         "name": "Makeshift Barricade",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-jericho",
     "name": "Jericho",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-jericho-leisurely_moment",
         "name": "Leisurely Moment",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-jericho-holy_knight_with_the_star_shaped_visor",
         "name": "Holy Knight With the Star-Shaped Visor",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-jericho-secretive_traveler",
         "name": "Secretive Traveler",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-jericho-trace_of_memories",
         "name": "Trace of Memories",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-king",
     "name": "King",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-king-forest_s_footsteps",
         "name": "Forest's Footsteps",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-king-the_grizzly_sin_of_sloth",
         "name": "<The Grizzly Sin of Sloth>",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-king-shadow_of_the_deep_forest",
         "name": "Shadow of the Deep Forest",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-diane",
     "name": "Diane",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-diane-tavern_hostess",
         "name": "Tavern Hostess",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-diane-the_serpent_sin_of_envy",
         "name": "<The Serpent Sin of Envy>",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-diane-cheerful_girl",
         "name": "Cheerful Girl",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-diane-spiked_combat_outfit",
+        "name": "Spiked Combat Outfit",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-drake",
     "name": "Drake",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-drake-oath_of_the_throne",
         "name": "Oath of the Throne",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-drake-glory_of_the_past",
         "name": "Glory of the Past",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-drake-shadow_lord",
         "name": "Shadow Lord",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-drake-imperial_knight",
+        "name": "Imperial Knight",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-mannie",
     "name": "Mannie",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-mannie-heart_of_prayer",
         "name": "Heart of Prayer",
         "recipe": {
-          "kit": "th",
-          "seal": "ss",
+          "kit": "thunderous",
+          "seal": "sturdy",
           "metal": null
         },
         "acquired": false
       },
       {
+        "id": "outfit-mannie-arch_priestess_s_prestige",
         "name": "Arch Priestess's Prestige",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-mannie-exploration_of_the_unknown",
         "name": "Exploration of the Unknown",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-mannie-holy_ritual",
         "name": "Holy Ritual",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-meliodas",
     "name": "Meliodas",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-meliodas-a_new_adventure",
         "name": "A New Adventure",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-meliodas-simple_defense",
         "name": "Simple Defense",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-meliodas-most_malevolent_majesty",
         "name": "Most Malevolent Majesty",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-daisy",
     "name": "Daisy",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-daisy-small_explorer",
         "name": "Small Explorer",
         "recipe": {
-          "kit": "sg",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-daisy-spirit_of_exploration",
         "name": "Spirit of Exploration",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-daisy-spring_robe",
         "name": "Spring Robe",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-escanor",
     "name": "Escanor",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-escanor-northern_wildness",
         "name": "Northern Wildness",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-escanor-sufficient_arrogance",
         "name": "Sufficient Arrogance",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-escanor-golden_dignity",
         "name": "Golden Dignity",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-clotho",
     "name": "Clotho",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-clotho-explorer_s_activewear",
         "name": "Explorer's Activewear",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-clotho-head_scholar_s_formality",
         "name": "Head Scholar's Formality",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-clotho-light_party_outfit",
         "name": "Light Party Outfit",
         "recipe": {
-          "kit": "rn",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-merlin",
     "name": "Merlin",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-merlin-light_formalwear",
         "name": "Light Formalwear",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-merlin-the_boar_sin_of_gluttony",
         "name": "The Boar Sin of Gluttony",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-merlin-seeker_of_knowledge",
+        "name": "Seeker of Knowledge",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }
     ]
   },
   {
+    "id": "hero-elizabeth",
     "name": "Elizabeth",
     "acquired": false,
     "outfits": [
       {
+        "id": "outfit-elizabeth-hero_of_liones",
         "name": "Hero of Liones",
         "recipe": {
-          "kit": "fw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       },
       {
+        "id": "outfit-elizabeth-star_of_the_tavern",
         "name": "Star of the Tavern",
         "recipe": {
-          "kit": "tw",
-          "seal": "bs",
-          "metal": "em"
+          "kit": "twisted-wish",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "id": "hero-gowther",
+    "name": "Gowther",
+    "acquired": false,
+    "outfits": [
+      {
+        "id": "outfit-gowther-secret_date_night_look",
+        "name": "Secret Date Night Look",
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "enhanced"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-gowther-the_goat_sin_of_lust",
+        "name": "<The Goat Sin of Lust>",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "enhanced"
         },
         "acquired": false
       }

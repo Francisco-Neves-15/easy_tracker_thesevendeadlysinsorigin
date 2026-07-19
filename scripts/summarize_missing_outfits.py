@@ -11,7 +11,10 @@ def generate_outfits_summary():
         return
 
     with open(user_json_path, 'r', encoding='utf-8') as f:
-        user_heroes = json.load(f)
+        try:
+            user_heroes = json.load(f)
+        except json.JSONDecodeError as error:
+            raise ValueError(f"user_data.json inválido: {error}") from error
 
     with open(output_txt, 'w', encoding='utf-8') as f:
         f.write("==================================================\n")

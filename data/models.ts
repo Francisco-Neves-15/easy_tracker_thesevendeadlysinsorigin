@@ -54,6 +54,7 @@ interface Model_Outfit_Recipe {
 }
 
 export interface Model_Hero_Outfit {
+  id: string,
   name: string,
   rarity: OutfitRarity,
   observation: string | null,
@@ -66,6 +67,7 @@ export interface Model_Hero_Outfit {
 }
 
 export interface Model_Hero {
+	id: string,
 	name: string,
 	rarity: HeroRarity,
 	observation: string | null,
@@ -74,12 +76,15 @@ export interface Model_Hero {
 
 // User
 export interface User_Model_Hero_Outfit {
+  id: string,
   name: string,
   recipe: Model_Outfit_Recipe,
   acquired: boolean
 }
 
 export interface User_Model_Hero {
+  id: string,
   name: string,
-  acquired: boolean
+  acquired: boolean,
+  outfits: User_Model_Hero_Outfit[]
 }

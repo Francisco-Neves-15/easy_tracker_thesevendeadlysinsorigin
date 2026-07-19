@@ -4,147 +4,157 @@
 
 [Herói]: Tristan (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Prince's Training Outfit (Kit: l, Seal: we)
-    - Formal Attire (Kit: fe, Seal: ss)
-    - Royal Dignity (Kit: sg, Seal: bs)
-    - Prince's Adventure (Kit: rn, Seal: bs)
-    - Prince's Vow (Kit: tw, Seal: bs)
+    - Prince's Training Outfit (Kit: liones, Seal: worm)
+    - Formal Attire (Kit: fiery-essence, Seal: sturdy)
+    - Royal Dignity (Kit: star-guardian, Seal: brilliant)
+    - Prince's Adventure (Kit: revived-nightmare, Seal: brilliant)
+    - Prince's Vow (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Tioreh (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Casual Outing (Kit: fe, Seal: ss)
-    - Daughter of the Forest and Earth (Kit: sg, Seal: bs)
-    - Adventure's Beginning (Kit: rn, Seal: bs)
-    - Fairy's Protection (Kit: tw, Seal: bs)
+    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
+    - Daughter of the Forest and Earth (Kit: star-guardian, Seal: brilliant)
+    - Adventure's Beginning (Kit: revived-nightmare, Seal: brilliant)
+    - Fairy's Protection (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Gilthunder (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Exemplary Holy Knight (Kit: fe, Seal: ss)
-    - Holy Knight of Lightning (Kit: sg, Seal: bs)
-    - Exemplary Adventure (Kit: rn, Seal: bs)
+    - Exemplary Holy Knight (Kit: fiery-essence, Seal: sturdy)
+    - Holy Knight of Lightning (Kit: star-guardian, Seal: brilliant)
+    - Exemplary Adventure (Kit: revived-nightmare, Seal: brilliant)
+    - Promising Holy Knight (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Howzer (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - End-of-Day Mug of Ale (Kit: fe, Seal: ss)
-    - Holy Knight of Storms (Kit: sg, Seal: bs)
-    - Secure Adventure (Kit: rn, Seal: bs)
+    - End-of-Day Mug of Ale (Kit: fiery-essence, Seal: sturdy)
+    - Holy Knight of Storms (Kit: star-guardian, Seal: brilliant)
+    - Secure Adventure (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Dredrin (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - A Nice Day Off (Kit: fe, Seal: ss)
-    - Descendant of Royalty (Kit: sg, Seal: bs)
-    - Thorough Preparation (Kit: rn, Seal: bs)
-    - Solid Defense (Kit: tw, Seal: bs)
+    - A Nice Day Off (Kit: fiery-essence, Seal: sturdy)
+    - Descendant of Royalty (Kit: star-guardian, Seal: brilliant)
+    - Thorough Preparation (Kit: revived-nightmare, Seal: brilliant)
+    - Solid Defense (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Bug (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Demon's Outing (Kit: fe, Seal: ss)
-    - Shadow Walk (Kit: sg, Seal: bs)
-    - Demon's Stealth (Kit: rn, Seal: bs)
+    - Demon's Outing (Kit: fiery-essence, Seal: sturdy)
+    - Shadow Walk (Kit: star-guardian, Seal: brilliant)
+    - Demon's Stealth (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Elaine (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Temp Employee (Kit: th, Seal: ss)
-    - Guiding Light (Kit: sg, Seal: bs)
-    - Cheerful Outing (Kit: rn, Seal: bs)
+    - Temp Employee (Kit: thunderous, Seal: sturdy)
+    - Guiding Light (Kit: star-guardian, Seal: brilliant)
+    - Cheerful Outing (Kit: revived-nightmare, Seal: brilliant)
+    - Saintess's Dignity (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Dreyfus (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Royal Butler (Kit: fe, Seal: ss)
-    - Old Soldier's Honor (Kit: sg, Seal: bs)
-    - Simple Attire (Kit: rn, Seal: bs)
-    - Honorable Knight (Kit: fw, Seal: bs)
+    - Royal Butler (Kit: fiery-essence, Seal: sturdy)
+    - Old Soldier's Honor (Kit: star-guardian, Seal: brilliant)
+    - Simple Attire (Kit: revived-nightmare, Seal: brilliant)
+    - Honorable Knight (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Hendrickson (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Romantic Gray (Kit: fe, Seal: ss)
-    - A Suit From Younger Days (Kit: sg, Seal: bs)
-    - Apothecary's Workwear (Kit: rn, Seal: bs)
-    - Returned Holy Knight (Kit: fw, Seal: bs)
+    - Romantic Gray (Kit: fiery-essence, Seal: sturdy)
+    - A Suit From Younger Days (Kit: star-guardian, Seal: brilliant)
+    - Apothecary's Workwear (Kit: revived-nightmare, Seal: brilliant)
+    - Returned Holy Knight (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Slater (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Loyal Friend (Kit: fe, Seal: ss)
-    - Sword of the Old King (Kit: sg, Seal: bs)
-    - Secret Mission (Kit: rn, Seal: bs)
-    - Total Readiness (Kit: tw, Seal: bs)
+    - Loyal Friend (Kit: fiery-essence, Seal: sturdy)
+    - Sword of the Old King (Kit: star-guardian, Seal: brilliant)
+    - Secret Mission (Kit: revived-nightmare, Seal: brilliant)
+    - Total Readiness (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Guila (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Family Time (Kit: th, Seal: ss)
-    - Holy Knight of Explosions (Kit: sg, Seal: bs)
-    - Light Footsteps (Kit: rn, Seal: bs)
-    - Crimson Flame's Trail (Kit: tw, Seal: bs)
+    - Family Time (Kit: thunderous, Seal: sturdy)
+    - Holy Knight of Explosions (Kit: star-guardian, Seal: brilliant)
+    - Light Footsteps (Kit: revived-nightmare, Seal: brilliant)
+    - Crimson Flame's Trail (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Griamore (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Casual Outing (Kit: fe, Seal: ss)
-    - Holy Knight of the Iron Wall (Kit: sg, Seal: bs)
-    - Makeshift Barricade (Kit: rn, Seal: bs)
+    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
+    - Holy Knight of the Iron Wall (Kit: star-guardian, Seal: brilliant)
+    - Makeshift Barricade (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Jericho (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Leisurely Moment (Kit: th, Seal: ss)
-    - Holy Knight With the Star-Shaped Visor (Kit: sg, Seal: bs)
-    - Secretive Traveler (Kit: rn, Seal: bs)
-    - Trace of Memories (Kit: fw, Seal: bs)
+    - Leisurely Moment (Kit: thunderous, Seal: sturdy)
+    - Holy Knight With the Star-Shaped Visor (Kit: star-guardian, Seal: brilliant)
+    - Secretive Traveler (Kit: revived-nightmare, Seal: brilliant)
+    - Trace of Memories (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
 [Herói]: King (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Forest's Footsteps (Kit: th, Seal: ss)
-    - <The Grizzly Sin of Sloth> (Kit: sg, Seal: bs)
-    - Shadow of the Deep Forest (Kit: rn, Seal: bs)
+    - Forest's Footsteps (Kit: thunderous, Seal: sturdy)
+    - <The Grizzly Sin of Sloth> (Kit: star-guardian, Seal: brilliant)
+    - Shadow of the Deep Forest (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Diane (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Tavern Hostess (Kit: th, Seal: ss)
-    - <The Serpent Sin of Envy> (Kit: sg, Seal: bs)
-    - Cheerful Girl (Kit: rn, Seal: bs)
+    - Tavern Hostess (Kit: thunderous, Seal: sturdy)
+    - <The Serpent Sin of Envy> (Kit: star-guardian, Seal: brilliant)
+    - Cheerful Girl (Kit: revived-nightmare, Seal: brilliant)
+    - Spiked Combat Outfit (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Drake (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Oath of the Throne (Kit: th, Seal: ss)
-    - Glory of the Past (Kit: sg, Seal: bs)
-    - Shadow Lord (Kit: rn, Seal: bs)
+    - Oath of the Throne (Kit: thunderous, Seal: sturdy)
+    - Glory of the Past (Kit: star-guardian, Seal: brilliant)
+    - Shadow Lord (Kit: revived-nightmare, Seal: brilliant)
+    - Imperial Knight (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Mannie (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Heart of Prayer (Kit: th, Seal: ss)
-    - Arch Priestess's Prestige (Kit: sg, Seal: bs)
-    - Exploration of the Unknown (Kit: rn, Seal: bs)
-    - Holy Ritual (Kit: fw, Seal: bs)
+    - Heart of Prayer (Kit: thunderous, Seal: sturdy)
+    - Arch Priestess's Prestige (Kit: star-guardian, Seal: brilliant)
+    - Exploration of the Unknown (Kit: revived-nightmare, Seal: brilliant)
+    - Holy Ritual (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Meliodas (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - A New Adventure (Kit: sg, Seal: bs)
-    - Simple Defense (Kit: rn, Seal: bs)
-    - Most Malevolent Majesty (Kit: tw, Seal: bs)
+    - A New Adventure (Kit: star-guardian, Seal: brilliant)
+    - Simple Defense (Kit: revived-nightmare, Seal: brilliant)
+    - Most Malevolent Majesty (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Daisy (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Small Explorer (Kit: sg, Seal: bs)
-    - Spirit of Exploration (Kit: rn, Seal: bs)
-    - Spring Robe (Kit: tw, Seal: bs)
+    - Small Explorer (Kit: star-guardian, Seal: brilliant)
+    - Spirit of Exploration (Kit: revived-nightmare, Seal: brilliant)
+    - Spring Robe (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Escanor (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Northern Wildness (Kit: tw, Seal: bs)
-    - Sufficient Arrogance (Kit: rn, Seal: bs)
-    - Golden Dignity (Kit: fw, Seal: bs)
+    - Northern Wildness (Kit: twisted-wish, Seal: brilliant)
+    - Sufficient Arrogance (Kit: revived-nightmare, Seal: brilliant)
+    - Golden Dignity (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Clotho (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Explorer's Activewear (Kit: tw, Seal: bs)
-    - Head Scholar's Formality (Kit: fw, Seal: bs)
-    - Light Party Outfit (Kit: rn, Seal: bs)
+    - Explorer's Activewear (Kit: twisted-wish, Seal: brilliant)
+    - Head Scholar's Formality (Kit: ferocius-watchers, Seal: brilliant)
+    - Light Party Outfit (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Merlin (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Light Formalwear (Kit: fw, Seal: bs)
-    - The Boar Sin of Gluttony (Kit: tw, Seal: bs)
+    - Light Formalwear (Kit: ferocius-watchers, Seal: brilliant)
+    - The Boar Sin of Gluttony (Kit: twisted-wish, Seal: brilliant)
+    - Seeker of Knowledge (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Herói]: Elizabeth (Não Adquirido)
   Roupas Pendentes de Gravação:
-    - Hero of Liones (Kit: fw, Seal: bs)
-    - Star of the Tavern (Kit: tw, Seal: bs)
+    - Hero of Liones (Kit: ferocius-watchers, Seal: brilliant)
+    - Star of the Tavern (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Herói]: Gowther (Não Adquirido)
+  Roupas Pendentes de Gravação:
+    - Secret Date Night Look (Kit: ferocius-watchers, Seal: brilliant)
+    - <The Goat Sin of Lust> (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
