@@ -1,4 +1,4 @@
-"""Cria ou atualiza o progresso do usuário sem perder aquisições existentes."""
+"""Creates or updates user progress without losing existing acquisitions."""
 
 import json
 from pathlib import Path
@@ -12,11 +12,13 @@ def _load_existing_data(file_path: Path) -> dict[str, dict]:
     try:
         heroes = json.loads(file_path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as error:
-        raise ValueError(f"'{file_path.name}' é inválido: {error}") from error
+        raise ValueError(f"'{file_path.name}' is invalid: {error}") from error
     return {hero.get("id") or hero["name"]: hero for hero in heroes}
 
 
 def generate_user_data(base_dir: Path | None = None) -> Path:
+    INCLUDE_NON_ENGRAVED = True
+
     base_dir = base_dir or Path(__file__).resolve().parents[1]
     heroes_path = base_dir / "data" / "heroes.ts"
     output_path = base_dir / "user_data.json"
@@ -27,7 +29,7 @@ def generate_user_data(base_dir: Path | None = None) -> Path:
         hero_id = hero.get("id")
         hero_name = hero.get("name")
         if not hero_id or not hero_name:
-            raise ValueError("Todo herói precisa de 'id' e 'name'. Execute prepare_heroes.py.")
+            raise ValueError("Every hero needs an 'id' and a 'name'. Run prepare_heroes.py.")
         old_hero = existing_data.get(hero_id, existing_data.get(hero_name, {}))
         old_outfits = {
             outfit.get("id") or outfit["name"]: outfit
@@ -36,12 +38,12 @@ def generate_user_data(base_dir: Path | None = None) -> Path:
         outfits = []
 
         for outfit in hero.get("outfits") or []:
-            if not (outfit.get("isEngraved") and outfit.get("recipe")):
+            if not INCLUDE_NON_ENGRAVED and (not (outfit.get("isEngraved") and outfit.get("recipe"))):
                 continue
             outfit_id = outfit.get("id")
             outfit_name = outfit.get("name")
             if not outfit_id or not outfit_name:
-                raise ValueError("Toda roupa gravável precisa de 'id' e 'name'.")
+                raise ValueError("Every writable resource requires an 'id' and a 'name'.")
             old_outfit = old_outfits.get(outfit_id, old_outfits.get(outfit_name, {}))
             outfits.append({
                 "id": outfit_id,
@@ -59,7 +61,7 @@ def generate_user_data(base_dir: Path | None = None) -> Path:
             })
 
     output_path.write_text(json.dumps(user_heroes, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"-> user_data.json atualizado: {output_path}")
+    print(f"-> user_data.json updated: {output_path}")
     return output_path
 
 

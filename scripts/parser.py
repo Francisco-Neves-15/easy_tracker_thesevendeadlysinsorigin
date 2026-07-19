@@ -1,4 +1,4 @@
-"""Leitura estrita dos arquivos de dados TypeScript usados pelo projeto."""
+"""Strict reading of the TypeScript data files used by the project."""
 
 import json
 import re
@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 def _remove_line_comments(source: str) -> str:
-    """Remove comentários de linha sem tocar em conteúdo entre aspas."""
+    # Remove line comments without affecting content within quotes.
     result = []
     in_string = False
     escaped = False
@@ -45,7 +45,7 @@ def _remove_line_comments(source: str) -> str:
 def _extract_array(source: str, declaration_name: str) -> str:
     declaration = re.search(rf"\b{re.escape(declaration_name)}\b[^=]*=\s*\[", source)
     if not declaration:
-        raise ValueError(f"Não foi encontrada a declaração '{declaration_name}'.")
+        raise ValueError(f"The declaration '{declaration_name}' was not found.")
 
     start = declaration.end() - 1
     depth = 0
@@ -72,7 +72,7 @@ def _extract_array(source: str, declaration_name: str) -> str:
             if depth == 0:
                 return source[start : index + 1]
 
-    raise ValueError(f"A lista '{declaration_name}' não possui fechamento ']'.")
+    raise ValueError(f"The list '{declaration_name}' is missing a closing ']'.")
 
 
 def _remove_trailing_commas(source: str) -> tuple[str, int]:
@@ -117,13 +117,13 @@ def _remove_trailing_commas(source: str) -> tuple[str, int]:
 
 
 def _quote_unquoted_keys(source: str) -> tuple[str, int]:
-    """Converte chaves TypeScript simples em chaves JSON entre aspas."""
+    # Converts simple TypeScript keys into quoted JSON keys.
     result = re.sub(r'([,{]\s*)([A-Za-z_$][A-Za-z0-9_$]*)\s*:', r'\1"\2":', source)
     return result, len(re.findall(r'([,{]\s*)([A-Za-z_$][A-Za-z0-9_$]*)\s*:', source))
 
 
 def parse_ts_array(file_path: Path, declaration_name: str) -> list[dict]:
-    """Converte uma lista TypeScript com valores literais em uma lista JSON válida."""
+    # Converts a TypeScript list of literal values into a valid JSON list.
     source = Path(file_path).read_text(encoding="utf-8")
     array_source = _extract_array(_remove_line_comments(source), declaration_name)
     json_source, quoted_keys = _quote_unquoted_keys(array_source)
@@ -131,25 +131,23 @@ def parse_ts_array(file_path: Path, declaration_name: str) -> list[dict]:
 
     if quoted_keys:
         print(
-            f"Aviso: {quoted_keys} chave(s) sem aspas convertida(s) "
-            f"ao preparar '{Path(file_path).name}'."
+            f"Warning: {quoted_keys} unquoted key(s) converted when preparing '{Path(file_path).name}'."
         )
     if removed_trailing_commas:
         print(
-            f"Aviso: {removed_trailing_commas} vírgula(s) final(is) removida(s) "
-            f"ao preparar '{Path(file_path).name}'."
+            f"Warning: {removed_trailing_commas} trailing comma(s) removed while preparing '{Path(file_path).name}'."
         )
 
     try:
         parsed = json.loads(json_source)
     except json.JSONDecodeError as error:
         raise ValueError(
-            f"'{Path(file_path).name}' não pode ser convertido em JSON válido: "
-            f"linha {error.lineno}, coluna {error.colno}: {error.msg}"
+            f"'{Path(file_path).name}' cannot be converted to valid JSON: "
+            f"line {error.lineno}, column {error.colno}: {error.msg}"
         ) from error
 
     if not isinstance(parsed, list):
-        raise ValueError(f"'{declaration_name}' deve ser uma lista.")
+        raise ValueError(f"'{declaration_name}' must be a list.")
     return parsed
 
 
@@ -158,7 +156,7 @@ def parse_heroes_ts(heroes_path: Path) -> list[dict]:
 
 
 def parse_materials_names(materials_path: Path) -> dict[str, str]:
-    """Mapeia os IDs dos materiais para seus nomes amigáveis."""
+    # Maps material IDs to their friendly names.
     names = {}
     for declaration in ("all_recipeKits", "all_seals", "all_metals"):
         for material in parse_ts_array(materials_path, declaration):

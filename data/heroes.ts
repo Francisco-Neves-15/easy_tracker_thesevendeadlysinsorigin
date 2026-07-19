@@ -1,7 +1,6 @@
 import { Model_Hero } from "./models";
 
-export const all_heroes: Model_Hero[] = 
-[
+export const all_heroes: Model_Hero[] = [
   {
     "id": "hero-tristan",
     "name": "Tristan",

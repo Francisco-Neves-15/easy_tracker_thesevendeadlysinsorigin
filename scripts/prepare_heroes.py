@@ -1,4 +1,4 @@
-"""Exporta all_heroes como JSON válido e normaliza os IDs em heroes.ts."""
+"""Exports all_heroes as valid JSON and normalizes the IDs in heroes.ts."""
 
 import json
 import re
@@ -21,7 +21,7 @@ def normalize_hero_ids(heroes: list[dict]) -> None:
         hero_name = hero.get("name")
         resolved_hero_name = resolve_name(hero_name or "")
         if not resolved_hero_name:
-            raise ValueError("Há um herói sem nome; não é possível gerar seu ID.")
+            raise ValueError("There is a hero without a name; it is not possible to generate their ID.")
         hero_id = f"hero-{resolved_hero_name}"
 
         normalized_outfits = []
@@ -32,12 +32,12 @@ def normalize_hero_ids(heroes: list[dict]) -> None:
                 if outfit.get("isDefault"):
                     resolved_outfit_name = "default"
                     print(
-                        f"Aviso: a roupa padrão #{position} de '{hero_name}' não possui nome; "
-                        "foi usado 'default' no ID."
+                        f"Warning: the default outfit #{position} for '{hero_name}' has no name; "
+                        "'default' was used for the ID."
                     )
                 else:
                     raise ValueError(
-                        f"A roupa #{position} de '{hero_name}' não possui nome; não é possível gerar seu ID."
+                        f"The #{position} outfit for '{hero_name}' has no name; its ID cannot be generated."
                     )
             outfit_id = f"outfit-{resolved_hero_name}-{resolved_outfit_name}"
             normalized_outfits.append({
@@ -73,9 +73,9 @@ def prepare_heroes(base_dir: Path | None = None) -> Path:
     write_heroes_ts(heroes_path, heroes)
     output_path.write_text(json.dumps(heroes, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    # Reabre o arquivo produzido para garantir que o artefato é JSON válido.
+    # Reopen the generated file to ensure the artifact is valid JSON.
     json.loads(output_path.read_text(encoding="utf-8"))
-    print(f"-> all_heroes.json validado e salvo: {output_path}")
+    print(f"-> all_heroes.json validated and saved: {output_path}")
     return output_path
 
 
