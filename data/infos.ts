@@ -23,6 +23,10 @@ export type Seals =
 export type SealsRarity = "legendary" | "hero" | "general";
 
 export type Metals =
-  /** Enhanced Metal */ "enhanced";
+  /** Enhanced Metal */ "magic-infused" |
+  /** Enhanced Metal */ "enhanced" |
+  /** Enhanced Metal */ "fragment";
 
-export type MetalsRarity = "hero";
+export type MetalsRarity = "hero" | "fine" | "general";
+
+export type MetalsMaterialsIngots = "platinum";

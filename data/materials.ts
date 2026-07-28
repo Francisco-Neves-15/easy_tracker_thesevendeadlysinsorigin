@@ -45,7 +45,7 @@ export const all_recipeKits: Model_RecipeKit[] = [
 		"rarity": "legendary",
 		"name": "Corroded Desire"
 	}
-]
+];
 
 export const all_seals: Model_Seals[] = [
 	{
@@ -63,12 +63,39 @@ export const all_seals: Model_Seals[] = [
 		"rarity": "legendary",
 		"name": "Brilliant Engraving Seal"
 	}
-]
+];
 
 export const all_metals: Model_Metals[] = [
 	{
+		"id": "fragment",
+		"rarity": "general",
+		"name": "Metal Fragment",
+    "recipe": "base"
+	},
+	{
 		"id": "enhanced",
+		"rarity": "fine",
+		"name": "Enhanced Metal",
+    "recipe": [
+      {
+        "material": "fragment",
+        "amount": 6
+      }
+    ]
+	},
+	{
+		"id": "magic-infused",
 		"rarity": "hero",
-		"name": "Magic-infused Enhanced Metal"
+		"name": "Magic-infused Enhanced Metal",
+    "recipe": [
+      {
+        "material": "platinum",
+        "amount": 25
+      },
+      {
+        "material": "enhanced",
+        "amount": 50
+      }
+    ]
 	}
-]
+];

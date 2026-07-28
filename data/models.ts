@@ -6,7 +6,8 @@ import {
   Seals,
   SealsRarity,
   Metals,
-  MetalsRarity
+  MetalsRarity,
+  MetalsMaterialsIngots
 } from "./infos";
 
 // Infos
@@ -32,10 +33,16 @@ export interface Model_Seals {
 
 // Metals ==================================================
 
+export interface Model_Metals_Recipe {
+	material: MetalsMaterialsIngots | Metals;
+	amount: number;
+}
+
 export interface Model_Metals {
 	id: Metals,
 	rarity: MetalsRarity,
 	name: string,
+	recipe: Model_Metals_Recipe[] | "base",
 }
 
 // Hero ==================================================

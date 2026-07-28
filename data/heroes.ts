@@ -64,7 +64,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -80,7 +80,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -96,7 +96,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -148,7 +148,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -164,7 +164,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -180,7 +180,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -232,7 +232,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -248,7 +248,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -264,7 +264,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -316,7 +316,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -332,7 +332,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -384,7 +384,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -400,7 +400,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -416,7 +416,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -468,7 +468,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -484,7 +484,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -536,7 +536,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -552,7 +552,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -568,7 +568,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -620,7 +620,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -636,7 +636,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -652,7 +652,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -704,7 +704,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -720,7 +720,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -736,7 +736,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -788,7 +788,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -804,7 +804,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -820,7 +820,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -872,7 +872,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -888,7 +888,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -904,7 +904,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -956,7 +956,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -972,7 +972,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -1024,7 +1024,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1040,7 +1040,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1056,7 +1056,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -1108,7 +1108,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1124,7 +1124,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -1176,7 +1176,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1192,7 +1192,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1208,7 +1208,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -1260,7 +1260,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1276,7 +1276,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1292,7 +1292,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       }
     ]
@@ -1344,7 +1344,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1360,7 +1360,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1376,7 +1376,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1429,7 +1429,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1445,7 +1445,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1461,7 +1461,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1514,7 +1514,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "star-guardian",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1530,7 +1530,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1546,7 +1546,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1599,7 +1599,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1615,7 +1615,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1631,7 +1631,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1701,7 +1701,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1717,7 +1717,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1733,7 +1733,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "revived-nightmare",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1803,7 +1803,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1819,7 +1819,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1835,7 +1835,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1905,7 +1905,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1921,7 +1921,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1974,7 +1974,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "ferocius-watchers",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
@@ -1990,7 +1990,7 @@ export const all_heroes: Model_Hero[] = [
         "recipe": {
           "kit": "corroded-desire",
           "seal": "brilliant",
-          "metal": "enhanced"
+          "metal": "magic-infused"
         }
       },
       {
