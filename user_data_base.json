@@ -2,13 +2,13 @@
   {
     "id": "hero-tristan",
     "name": "Tristan",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-tristan-little_prince",
         "name": "Little Prince",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-tristan-prince_s_training_outfit",
@@ -18,7 +18,7 @@
           "seal": "worm",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-tristan-formal_attire",
@@ -28,7 +28,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-tristan-royal_dignity",
@@ -65,13 +65,13 @@
   {
     "id": "hero-tioreh",
     "name": "Tioreh",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-tioreh-adorable_fairy",
         "name": "Adorable Fairy",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-tioreh-casual_outing",
@@ -101,7 +101,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-tioreh-fairy_s_protection",
@@ -118,13 +118,13 @@
   {
     "id": "hero-gilthunder",
     "name": "Gilthunder",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-gilthunder-young_holy_knight",
         "name": "Young Holy Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-gilthunder-exemplary_holy_knight",
@@ -171,13 +171,13 @@
   {
     "id": "hero-howzer",
     "name": "Howzer",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-howzer-trusted_grandmaster",
         "name": "Trusted Grandmaster",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-howzer-end_of_day_mug_of_ale",
@@ -187,7 +187,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-howzer-holy_knight_of_storms",
@@ -214,13 +214,13 @@
   {
     "id": "hero-dredrin",
     "name": "Dredrin",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-dredrin-friendly_apprentice_holy_knight",
         "name": "Friendly Apprentice Holy Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-dredrin-a_nice_day_off",
@@ -230,7 +230,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-dredrin-descendant_of_royalty",
@@ -267,13 +267,13 @@
   {
     "id": "hero-bug",
     "name": "Bug",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-bug-shy_demon",
         "name": "Shy Demon",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-bug-demon_s_outing",
@@ -283,7 +283,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-bug-shadow_walk",
@@ -310,13 +310,13 @@
   {
     "id": "hero-elaine",
     "name": "Elaine",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-elaine-guardian_saint_of_the_fountain_of_youth",
         "name": "Guardian Saint of the Fountain of Youth",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-elaine-temp_employee",
@@ -363,13 +363,13 @@
   {
     "id": "hero-dreyfus",
     "name": "Dreyfus",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-dreyfus-kingdom_sword_art_instructor",
         "name": "Kingdom Sword Art Instructor",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-dreyfus-royal_butler",
@@ -416,13 +416,13 @@
   {
     "id": "hero-hendrickson",
     "name": "Hendrickson",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-hendrickson-liones_apothecary",
         "name": "Liones Apothecary",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-hendrickson-romantic_gray",
@@ -432,7 +432,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-hendrickson-a_suit_from_younger_days",
@@ -469,13 +469,13 @@
   {
     "id": "hero-slater",
     "name": "Slater",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-slater-veteran_holy_knight",
         "name": "Veteran Holy Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-slater-loyal_friend",
@@ -522,13 +522,13 @@
   {
     "id": "hero-guila",
     "name": "Guila",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-guila-one_and_only_holy_knight",
         "name": "One and Only Holy Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-guila-family_time",
@@ -575,13 +575,13 @@
   {
     "id": "hero-griamore",
     "name": "Griamore",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-griamore-princess_s_guardian_knight",
         "name": "Princess's Guardian Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-griamore-casual_outing",
@@ -618,13 +618,13 @@
   {
     "id": "hero-jericho",
     "name": "Jericho",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-jericho-runaway_holy_knight",
         "name": "Runaway Holy Knight",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-jericho-leisurely_moment",
@@ -644,7 +644,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-jericho-secretive_traveler",
@@ -671,13 +671,13 @@
   {
     "id": "hero-king",
     "name": "King",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-king-inexperienced_fairy_king",
         "name": "Inexperienced Fairy King",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-king-forest_s_footsteps",
@@ -687,7 +687,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-king-the_grizzly_sin_of_sloth",
@@ -714,13 +714,13 @@
   {
     "id": "hero-diane",
     "name": "Diane",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-diane-giant_girl_in_love",
         "name": "Giant Girl in Love",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-diane-tavern_hostess",
@@ -750,7 +750,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-diane-spiked_combat_outfit",
@@ -767,13 +767,13 @@
   {
     "id": "hero-drake",
     "name": "Drake",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-drake-dragon_descendent",
         "name": "Dragon Descendent",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-drake-oath_of_the_throne",
@@ -820,13 +820,13 @@
   {
     "id": "hero-mannie",
     "name": "Mannie",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-mannie-exalted_priestess",
         "name": "Exalted Priestess",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-mannie-heart_of_prayer",
@@ -836,7 +836,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-mannie-arch_priestess_s_prestige",
@@ -846,7 +846,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-mannie-exploration_of_the_unknown",
@@ -856,7 +856,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-mannie-holy_ritual",
@@ -866,26 +866,26 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-mannie-azure_coral_reef",
         "name": "Azure Coral Reef",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       }
     ]
   },
   {
     "id": "hero-meliodas",
     "name": "Meliodas",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-meliodas-ordinary_tavern_owner",
         "name": "Ordinary Tavern Owner",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-meliodas-a_new_adventure",
@@ -895,7 +895,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-meliodas-simple_defense",
@@ -915,7 +915,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-meliodas-the_dragon_sin_of_wrath",
@@ -977,13 +977,13 @@
   {
     "id": "hero-escanor",
     "name": "Escanor",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-escanor-arrogant_poet",
         "name": "Arrogant Poet",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-escanor-northern_wildness",
@@ -1003,7 +1003,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-escanor-golden_dignity",
@@ -1013,19 +1013,19 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-escanor-the_lion_sin_of_pride",
         "name": "<The Lion Sin of Pride>",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-escanor-epitome_of_pride",
         "name": "Epitome of Pride",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       }
     ]
   },
@@ -1087,13 +1087,13 @@
   {
     "id": "hero-merlin",
     "name": "Merlin",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-merlin-esoteric_great_mage",
         "name": "Esoteric Great Mage",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-merlin-light_formalwear",
@@ -1113,7 +1113,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-merlin-seeker_of_knowledge",
@@ -1123,7 +1123,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-merlin-witch_s_banquet",
@@ -1142,13 +1142,13 @@
   {
     "id": "hero-elizabeth",
     "name": "Elizabeth",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-elizabeth-midsummer_reverie",
         "name": "Midsummer Reverie",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-elizabeth-hero_of_liones",
@@ -1158,7 +1158,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-elizabeth-star_of_the_tavern",
@@ -1168,7 +1168,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
@@ -1181,13 +1181,13 @@
   {
     "id": "hero-gowther",
     "name": "Gowther",
-    "acquired": true,
+    "acquired": false,
     "outfits": [
       {
         "id": "outfit-gowther-heartless_doll",
         "name": "Heartless Doll",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-gowther-secret_date_night_look",
@@ -1197,7 +1197,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-gowther-the_goat_sin_of_lust",
@@ -1207,7 +1207,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-gowther-journey_of_self_discovery",

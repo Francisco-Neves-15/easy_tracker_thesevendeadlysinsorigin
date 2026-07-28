@@ -1808,7 +1808,7 @@ export const all_heroes: Model_Hero[] = [
       },
       {
         "id": "outfit-merlin-the_boar_sin_of_gluttony",
-        "name": "The Boar Sin of Gluttony",
+        "name": "<The Boar Sin of Gluttony>",
         "rarity": "legendary",
         "observation": null,
         "isDefault": false,
