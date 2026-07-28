@@ -186,3 +186,10 @@
     - Star of the Tavern (Kit: twisted-wish, Seal: brilliant)
     - The Princess Who Regained Her Memory (Appearance Only)
 --------------------------------------------------
+[Hero]: Gowther (Not Acquired)
+  Clothing Pending:
+    - Heartless Doll (Appearance Only)
+    - Secret Date Night Look (Kit: ferocius-watchers, Seal: brilliant)
+    - <The Goat Sin of Lust> (Kit: corroded-desire, Seal: brilliant)
+    - Journey of Self-discovery (Appearance Only)
+--------------------------------------------------
