@@ -8,7 +8,7 @@ export const all_recipeKits: Model_RecipeKit[] = [
 	{
 		"id": "liones",
 		"rarity": "fine",
-		"name": "Liones"
+		"name": "[Quest] Liones"
 	},
 	{
 		"id": "thunderous",

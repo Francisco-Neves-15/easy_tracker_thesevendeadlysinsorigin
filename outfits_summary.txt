@@ -1,0 +1,143 @@
+==================================================
+        PENDING OUTFITS AND CHARACTERS            
+==================================================
+
+[Hero]: Tristan (Acquired)
+  Clothing Pending:
+    - Royal Dignity (Kit: star-guardian, Seal: brilliant)
+    - Prince's Adventure (Kit: revived-nightmare, Seal: brilliant)
+    - Prince's Vow (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Tioreh (Acquired)
+  Clothing Pending:
+    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
+    - Daughter of the Forest and Earth (Kit: star-guardian, Seal: brilliant)
+    - Fairy's Protection (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Gilthunder (Acquired)
+  Clothing Pending:
+    - Exemplary Holy Knight (Kit: fiery-essence, Seal: sturdy)
+    - Holy Knight of Lightning (Kit: star-guardian, Seal: brilliant)
+    - Exemplary Adventure (Kit: revived-nightmare, Seal: brilliant)
+    - Promising Holy Knight (Kit: corroded-desire, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Howzer (Acquired)
+  Clothing Pending:
+    - Holy Knight of Storms (Kit: star-guardian, Seal: brilliant)
+    - Secure Adventure (Kit: revived-nightmare, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Dredrin (Acquired)
+  Clothing Pending:
+    - Descendant of Royalty (Kit: star-guardian, Seal: brilliant)
+    - Thorough Preparation (Kit: revived-nightmare, Seal: brilliant)
+    - Solid Defense (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Bug (Acquired)
+  Clothing Pending:
+    - Shadow Walk (Kit: star-guardian, Seal: brilliant)
+    - Demon's Stealth (Kit: revived-nightmare, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Elaine (Acquired)
+  Clothing Pending:
+    - Temp Employee (Kit: thunderous, Seal: sturdy)
+    - Guiding Light (Kit: star-guardian, Seal: brilliant)
+    - Cheerful Outing (Kit: revived-nightmare, Seal: brilliant)
+    - Saintess's Dignity (Kit: corroded-desire, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Dreyfus (Acquired)
+  Clothing Pending:
+    - Royal Butler (Kit: fiery-essence, Seal: sturdy)
+    - Old Soldier's Honor (Kit: star-guardian, Seal: brilliant)
+    - Simple Attire (Kit: revived-nightmare, Seal: brilliant)
+    - Honorable Knight (Kit: ferocius-watchers, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Hendrickson (Acquired)
+  Clothing Pending:
+    - A Suit From Younger Days (Kit: star-guardian, Seal: brilliant)
+    - Apothecary's Workwear (Kit: revived-nightmare, Seal: brilliant)
+    - Returned Holy Knight (Kit: ferocius-watchers, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Slater (Acquired)
+  Clothing Pending:
+    - Loyal Friend (Kit: fiery-essence, Seal: sturdy)
+    - Sword of the Old King (Kit: star-guardian, Seal: brilliant)
+    - Secret Mission (Kit: revived-nightmare, Seal: brilliant)
+    - Total Readiness (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Guila (Acquired)
+  Clothing Pending:
+    - Family Time (Kit: thunderous, Seal: sturdy)
+    - Holy Knight of Explosions (Kit: star-guardian, Seal: brilliant)
+    - Light Footsteps (Kit: revived-nightmare, Seal: brilliant)
+    - Crimson Flame's Trail (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Griamore (Acquired)
+  Clothing Pending:
+    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
+    - Holy Knight of the Iron Wall (Kit: star-guardian, Seal: brilliant)
+    - Makeshift Barricade (Kit: revived-nightmare, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Jericho (Acquired)
+  Clothing Pending:
+    - Leisurely Moment (Kit: thunderous, Seal: sturdy)
+    - Secretive Traveler (Kit: revived-nightmare, Seal: brilliant)
+    - Trace of Memories (Kit: ferocius-watchers, Seal: brilliant)
+--------------------------------------------------
+[Hero]: King (Acquired)
+  Clothing Pending:
+    - <The Grizzly Sin of Sloth> (Kit: star-guardian, Seal: brilliant)
+    - Shadow of the Deep Forest (Kit: revived-nightmare, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Diane (Acquired)
+  Clothing Pending:
+    - Tavern Hostess (Kit: thunderous, Seal: sturdy)
+    - <The Serpent Sin of Envy> (Kit: star-guardian, Seal: brilliant)
+    - Spiked Combat Outfit (Kit: corroded-desire, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Drake (Acquired)
+  Clothing Pending:
+    - Oath of the Throne (Kit: thunderous, Seal: sturdy)
+    - Glory of the Past (Kit: star-guardian, Seal: brilliant)
+    - Shadow Lord (Kit: revived-nightmare, Seal: brilliant)
+    - Imperial Knight (Kit: corroded-desire, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Meliodas (Acquired)
+  Clothing Pending:
+    - Simple Defense (Kit: revived-nightmare, Seal: brilliant)
+    - <The Dragon Sin of Wrath> (Appearance Only)
+--------------------------------------------------
+[Hero]: Daisy (Not Acquired)
+  Clothing Pending:
+    - Fairy of the Past (Appearance Only)
+    - Small Explorer (Kit: star-guardian, Seal: brilliant)
+    - Spirit of Exploration (Kit: revived-nightmare, Seal: brilliant)
+    - Spring Robe (Kit: twisted-wish, Seal: brilliant)
+    - Autumn Scent (Appearance Only)
+--------------------------------------------------
+[Hero]: Escanor (Acquired)
+  Clothing Pending:
+    - Northern Wildness (Kit: twisted-wish, Seal: brilliant)
+--------------------------------------------------
+[Hero]: Clotho (Not Acquired)
+  Clothing Pending:
+    - Explorer's Uniform (Appearance Only)
+    - Explorer's Activewear (Kit: twisted-wish, Seal: brilliant)
+    - Head Scholar's Formality (Kit: ferocius-watchers, Seal: brilliant)
+    - Light Party Outfit (Kit: revived-nightmare, Seal: brilliant)
+    - Dawn Moon's Play (Appearance Only)
+    - Starlight Shadow (Appearance Only)
+--------------------------------------------------
+[Hero]: Merlin (Acquired)
+  Clothing Pending:
+    - Light Formalwear (Kit: ferocius-watchers, Seal: brilliant)
+    - Witch's Banquet (Appearance Only)
+    - Seaside Frolic (Appearance Only)
+--------------------------------------------------
+[Hero]: Elizabeth (Acquired)
+  Clothing Pending:
+    - The Princess Who Regained Her Memory (Appearance Only)
+--------------------------------------------------
+[Hero]: Gowther (Acquired)
+  Clothing Pending:
+    - Journey of Self-discovery (Appearance Only)
+--------------------------------------------------

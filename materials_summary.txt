@@ -1,0 +1,18 @@
+==================================================
+        GENERAL MATERIALS SUMMARY - 7DS ORIGINS   
+==================================================
+
+Item (Material)                          | Total  | Acquired   | Remaining
+---------------------------------------------------------------------------
+Brilliant Engraving Seal                 | 66     | 16         | 50       
+Corroded Desire                          | 6      | 2          | 4        
+Ferocius Watcher's                       | 9      | 4          | 5        
+Fiery Essence (Finest)                   | 10     | 5          | 5        
+Magic-infused Enhanced Metal             | 66     | 16         | 50       
+Revived Nightmare                        | 21     | 4          | 17       
+Star Guardian                            | 19     | 3          | 16       
+Sturdy Engraving Seal                    | 17     | 7          | 10       
+Thunderous (Finest)                      | 7      | 2          | 5        
+Twisted Wish                             | 11     | 3          | 8        
+Worn Engraving Seal                      | 1      | 1          | 0        
+[Quest] Liones                           | 1      | 1          | 0        
