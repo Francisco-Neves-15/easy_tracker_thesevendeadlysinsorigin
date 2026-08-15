@@ -141,3 +141,10 @@
   Clothing Pending:
     - Journey of Self-discovery (Appearance Only)
 --------------------------------------------------
+[Hero]: Derieri (Not Acquired)
+  Clothing Pending:
+    - Derieri of 「Purity」 (Appearance Only)
+    - Minimal Courtesy (Kit: ferocius-watchers, Seal: brilliant)
+    - Resistance and Revolution (Kit: corroded-desire, Seal: brilliant)
+    - Red Flame of the Demon Realm (Appearance Only)
+--------------------------------------------------

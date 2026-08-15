@@ -2009,5 +2009,74 @@
         "recipe": null
       }
     ]
+  },
+  {
+    "id": "hero-derieri",
+    "name": "Derieri",
+    "rarity": "legendary",
+    "observation": null,
+    "outfits": [
+      {
+        "id": "outfit-derieri-derieri_of_purity",
+        "name": "Derieri of 「Purity」",
+        "rarity": "hero",
+        "observation": null,
+        "isDefault": true,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
+        "id": "outfit-derieri-minimal_courtesy",
+        "name": "Minimal Courtesy",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-derieri-resistance_and_revolution",
+        "name": "Resistance and Revolution",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-derieri-red_flame_of_the_demon_realm",
+        "name": "Red Flame of the Demon Realm",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "Crimson Flame Fighting Spirit",
+          "description": "Top Tier Reward",
+          "type": "banner",
+          "typeEvent": null
+        },
+        "isEngraved": false,
+        "recipe": null
+      }
+    ]
   }
 ]

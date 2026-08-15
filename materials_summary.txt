@@ -4,11 +4,11 @@
 
 Item (Material)                          | Total  | Acquired   | Remaining
 ---------------------------------------------------------------------------
-Brilliant Engraving Seal                 | 66     | 16         | 50       
-Corroded Desire                          | 6      | 2          | 4        
-Ferocius Watcher's                       | 9      | 4          | 5        
+Brilliant Engraving Seal                 | 68     | 16         | 52       
+Corroded Desire                          | 7      | 2          | 5        
+Ferocius Watcher's                       | 10     | 4          | 6        
 Fiery Essence (Finest)                   | 10     | 5          | 5        
-Magic-infused Enhanced Metal             | 66     | 16         | 50       
+Magic-infused Enhanced Metal             | 68     | 16         | 52       
 Revived Nightmare                        | 21     | 4          | 17       
 Star Guardian                            | 19     | 3          | 16       
 Sturdy Engraving Seal                    | 17     | 7          | 10       
