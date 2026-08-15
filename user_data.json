@@ -207,7 +207,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       }
     ]
   },
@@ -803,7 +803,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-drake-imperial_knight",
@@ -993,7 +993,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-escanor-sufficient_arrogance",
@@ -1019,7 +1019,7 @@
         "id": "outfit-escanor-the_lion_sin_of_pride",
         "name": "<The Lion Sin of Pride>",
         "recipe": null,
-        "acquired": true
+        "acquired": false
       },
       {
         "id": "outfit-escanor-epitome_of_pride",
@@ -1103,7 +1103,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-merlin-the_boar_sin_of_gluttony",
@@ -1220,13 +1220,13 @@
   {
     "id": "hero-derieri",
     "name": "Derieri",
-    "acquired": false,
+    "acquired": true,
     "outfits": [
       {
         "id": "outfit-derieri-derieri_of_purity",
         "name": "Derieri of 「Purity」",
         "recipe": null,
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-derieri-minimal_courtesy",
@@ -1236,7 +1236,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-derieri-resistance_and_revolution",

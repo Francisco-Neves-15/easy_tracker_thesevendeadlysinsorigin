@@ -1,4 +1,16 @@
 ==================================================
+                 Star Fragments                    
+==================================================
+
+===========================================================================
+Star Fragments from Outfits | Total       | Acquired    | Remaining
+===========================================================================
+Engraved                    |      43.000 |      14.500 |      28.500
+Exclusive                   |       6.000 |       1.000 |       5.000
+Total                       |      49.000 |      15.500 |      33.500
+===========================================================================
+
+==================================================
         PENDING OUTFITS AND CHARACTERS            
 ==================================================
 
@@ -24,7 +36,6 @@
 [Hero]: Howzer (Acquired)
   Clothing Pending:
     - Holy Knight of Storms (Kit: star-guardian, Seal: brilliant)
-    - Secure Adventure (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Dredrin (Acquired)
   Clothing Pending:
@@ -98,7 +109,6 @@
   Clothing Pending:
     - Oath of the Throne (Kit: thunderous, Seal: sturdy)
     - Glory of the Past (Kit: star-guardian, Seal: brilliant)
-    - Shadow Lord (Kit: revived-nightmare, Seal: brilliant)
     - Imperial Knight (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Meliodas (Acquired)
@@ -116,7 +126,7 @@
 --------------------------------------------------
 [Hero]: Escanor (Acquired)
   Clothing Pending:
-    - Northern Wildness (Kit: twisted-wish, Seal: brilliant)
+    - <The Lion Sin of Pride> (Appearance Only)
 --------------------------------------------------
 [Hero]: Clotho (Not Acquired)
   Clothing Pending:
@@ -129,7 +139,6 @@
 --------------------------------------------------
 [Hero]: Merlin (Acquired)
   Clothing Pending:
-    - Light Formalwear (Kit: ferocius-watchers, Seal: brilliant)
     - Witch's Banquet (Appearance Only)
     - Seaside Frolic (Appearance Only)
 --------------------------------------------------
@@ -141,10 +150,8 @@
   Clothing Pending:
     - Journey of Self-discovery (Appearance Only)
 --------------------------------------------------
-[Hero]: Derieri (Not Acquired)
+[Hero]: Derieri (Acquired)
   Clothing Pending:
-    - Derieri of 「Purity」 (Appearance Only)
-    - Minimal Courtesy (Kit: ferocius-watchers, Seal: brilliant)
     - Resistance and Revolution (Kit: corroded-desire, Seal: brilliant)
     - Red Flame of the Demon Realm (Appearance Only)
 --------------------------------------------------

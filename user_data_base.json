@@ -1216,5 +1216,44 @@
         "acquired": false
       }
     ]
+  },
+  {
+    "id": "hero-derieri",
+    "name": "Derieri",
+    "acquired": false,
+    "outfits": [
+      {
+        "id": "outfit-derieri-derieri_of_purity",
+        "name": "Derieri of 「Purity」",
+        "recipe": null,
+        "acquired": false
+      },
+      {
+        "id": "outfit-derieri-minimal_courtesy",
+        "name": "Minimal Courtesy",
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-derieri-resistance_and_revolution",
+        "name": "Resistance and Revolution",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-derieri-red_flame_of_the_demon_realm",
+        "name": "Red Flame of the Demon Realm",
+        "recipe": null,
+        "acquired": false
+      }
+    ]
   }
 ]

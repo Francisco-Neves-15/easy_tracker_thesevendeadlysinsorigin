@@ -1,4 +1,16 @@
 ==================================================
+                 Star Fragments                    
+==================================================
+
+===========================================================================
+Star Fragments from Outfits | Total       | Acquired    | Remaining
+===========================================================================
+Engraved                    |      43.000 |           0 |      43.000
+Exclusive                   |       6.000 |           0 |       6.000
+Total                       |      49.000 |           0 |      49.000
+===========================================================================
+
+==================================================
         PENDING OUTFITS AND CHARACTERS            
 ==================================================
 
@@ -192,4 +204,11 @@
     - Secret Date Night Look (Kit: ferocius-watchers, Seal: brilliant)
     - <The Goat Sin of Lust> (Kit: corroded-desire, Seal: brilliant)
     - Journey of Self-discovery (Appearance Only)
+--------------------------------------------------
+[Hero]: Derieri (Not Acquired)
+  Clothing Pending:
+    - Derieri of 「Purity」 (Appearance Only)
+    - Minimal Courtesy (Kit: ferocius-watchers, Seal: brilliant)
+    - Resistance and Revolution (Kit: corroded-desire, Seal: brilliant)
+    - Red Flame of the Demon Realm (Appearance Only)
 --------------------------------------------------
