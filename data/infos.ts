@@ -12,7 +12,8 @@ export type RecipeKits =
 	/** Revived Nightmare */ "revived-nightmare" |
 	/** Twisted Wish */ "twisted-wish" |
 	/** Ferocius Watcher's */ "ferocius-watchers" |
-	/** Corroded Desire */ "corroded-desire";
+	/** Corroded Desire */ "corroded-desire" |
+	/** Destroyer's Obsession */ "destroyer-obsession" ;
 export type RecipeKitRarity = "legendary" | "hero" | "fine";
 
 export type Seals = 	

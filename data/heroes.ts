@@ -334,6 +334,22 @@ export const all_heroes: Model_Hero[] = [
           "seal": "brilliant",
           "metal": "magic-infused"
         }
+      },
+      {
+        "id": "outfit-howzer-grandmaster_s_dignity",
+        "name": "Grandmaster's Dignity",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
       }
     ]
   },
@@ -467,6 +483,22 @@ export const all_heroes: Model_Hero[] = [
         "isEngraved": true,
         "recipe": {
           "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-bug-keen_instinct",
+        "name": "Keen Instinct",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         }
@@ -974,6 +1006,22 @@ export const all_heroes: Model_Hero[] = [
           "seal": "brilliant",
           "metal": "magic-infused"
         }
+      },
+      {
+        "id": "outfit-griamore-impregnable_iron_fortress",
+        "name": "Impregnable Iron Fortress",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
       }
     ]
   },
@@ -1123,6 +1171,22 @@ export const all_heroes: Model_Hero[] = [
         "isEngraved": true,
         "recipe": {
           "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-dreyfus-fairy_king_s_shadow",
+        "name": "Fairy King's Shadow",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         }
@@ -1925,6 +1989,22 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
+        "id": "outfit-elizabeth-light_of_liones",
+        "name": "Light Of Liones",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
         "name": "The Princess Who Regained Her Memory",
         "rarity": "legendary",
@@ -1994,6 +2074,22 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
+        "id": "outfit-gowther-minimal_defense",
+        "name": "Minimal Defense",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
         "id": "outfit-gowther-journey_of_self_discovery",
         "name": "Journey of Self-discovery",
         "rarity": "legendary",
@@ -2012,7 +2108,7 @@ export const all_heroes: Model_Hero[] = [
       }
     ]
   },
-  {
+  { !
     "id": "hero-derieri",
     "name": "Derieri",
     "rarity": "legendary",
@@ -2063,7 +2159,92 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
+        "id": "outfit-derieri-rebellious_movement",
+        "name": "Rebellious Movement",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
         "id": "outfit-derieri-red_flame_of_the_demon_realm",
+        "name": "Red Flame of the Demon Realm",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "Crimson Flame Fighting Spirit",
+          "description": "Top Tier Reward",
+          "type": "banner",
+          "typeEvent": null
+        },
+        "isEngraved": false,
+        "recipe": null
+      }
+    ]
+  },
+  {
+    "id": "hero-ban",
+    "name": "Ban",
+    "rarity": "legendary",
+    "observation": null,
+    "outfits": [
+      {
+        "id": "outfit-ban-ban_of_purity",
+        "name": "Ban of 「Purity」",
+        "rarity": "hero",
+        "observation": null,
+        "isDefault": true,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
+        "id": "outfit-ban-minimal_courtesy",
+        "name": "Minimal Courtesy",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-resistance_and_revolution",
+        "name": "Resistance and Revolution",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-red_flame_of_the_demon_realm",
         "name": "Red Flame of the Demon Realm",
         "rarity": "legendary",
         "observation": null,
