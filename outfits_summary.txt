@@ -5,9 +5,9 @@
 ===========================================================================
 Star Fragments from Outfits | Total       | Acquired    | Remaining
 ===========================================================================
-Engraved                    |      43.000 |      14.500 |      28.500
-Exclusive                   |       6.000 |       1.000 |       5.000
-Total                       |      49.000 |      15.500 |      33.500
+Engraved                    |      48.000 |      16.000 |      32.000
+Exclusive                   |       6.500 |       1.000 |       5.500
+Total                       |      54.500 |      17.000 |      37.500
 ===========================================================================
 
 ==================================================
@@ -36,6 +36,7 @@ Total                       |      49.000 |      15.500 |      33.500
 [Hero]: Howzer (Acquired)
   Clothing Pending:
     - Holy Knight of Storms (Kit: star-guardian, Seal: brilliant)
+    - Grandmaster's Dignity (Kit: destroyer-obsession, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Dredrin (Acquired)
   Clothing Pending:
@@ -46,6 +47,7 @@ Total                       |      49.000 |      15.500 |      33.500
 [Hero]: Bug (Acquired)
   Clothing Pending:
     - Shadow Walk (Kit: star-guardian, Seal: brilliant)
+    - Keen Instinct (Kit: destroyer-obsession, Seal: brilliant)
     - Demon's Stealth (Kit: revived-nightmare, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Elaine (Acquired)
@@ -57,7 +59,6 @@ Total                       |      49.000 |      15.500 |      33.500
 --------------------------------------------------
 [Hero]: Dreyfus (Acquired)
   Clothing Pending:
-    - Royal Butler (Kit: fiery-essence, Seal: sturdy)
     - Old Soldier's Honor (Kit: star-guardian, Seal: brilliant)
     - Simple Attire (Kit: revived-nightmare, Seal: brilliant)
     - Honorable Knight (Kit: ferocius-watchers, Seal: brilliant)
@@ -84,9 +85,9 @@ Total                       |      49.000 |      15.500 |      33.500
 --------------------------------------------------
 [Hero]: Griamore (Acquired)
   Clothing Pending:
-    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
     - Holy Knight of the Iron Wall (Kit: star-guardian, Seal: brilliant)
     - Makeshift Barricade (Kit: revived-nightmare, Seal: brilliant)
+    - Impregnable Iron Fortress (Kit: destroyer-obsession, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Jericho (Acquired)
   Clothing Pending:
@@ -98,6 +99,7 @@ Total                       |      49.000 |      15.500 |      33.500
   Clothing Pending:
     - <The Grizzly Sin of Sloth> (Kit: star-guardian, Seal: brilliant)
     - Shadow of the Deep Forest (Kit: revived-nightmare, Seal: brilliant)
+    - Fairy King's Shadow (Kit: destroyer-obsession, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Diane (Acquired)
   Clothing Pending:
@@ -144,6 +146,7 @@ Total                       |      49.000 |      15.500 |      33.500
 --------------------------------------------------
 [Hero]: Elizabeth (Acquired)
   Clothing Pending:
+    - Light Of Liones (Kit: destroyer-obsession, Seal: brilliant)
     - The Princess Who Regained Her Memory (Appearance Only)
 --------------------------------------------------
 [Hero]: Gowther (Acquired)
@@ -153,5 +156,14 @@ Total                       |      49.000 |      15.500 |      33.500
 [Hero]: Derieri (Acquired)
   Clothing Pending:
     - Resistance and Revolution (Kit: corroded-desire, Seal: brilliant)
+    - Rebellious Movement (Kit: destroyer-obsession, Seal: brilliant)
     - Red Flame of the Demon Realm (Appearance Only)
+--------------------------------------------------
+[Hero]: Ban (Not Acquired)
+  Clothing Pending:
+    - Undying Bandit (Appearance Only)
+    - Temporary Cook (Kit: corroded-desire, Seal: brilliant)
+    - <The Fox Sin of Greed> (Kit: destroyer-obsession, Seal: brilliant)
+    - Jaunty Maraunder (Kit: ferocius-watchers, Seal: brilliant)
+    - Irreverent Holy Knight (Appearance Only)
 --------------------------------------------------

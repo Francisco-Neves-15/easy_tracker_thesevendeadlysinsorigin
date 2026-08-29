@@ -208,6 +208,16 @@
           "metal": "magic-infused"
         },
         "acquired": false
+      },
+      {
+        "id": "outfit-howzer-grandmaster_s_dignity",
+        "name": "Grandmaster's Dignity",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
       }
     ]
   },
@@ -290,6 +300,16 @@
         "name": "Shadow Walk",
         "recipe": {
           "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-bug-keen_instinct",
+        "name": "Keen Instinct",
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         },
@@ -612,6 +632,16 @@
           "metal": "magic-infused"
         },
         "acquired": false
+      },
+      {
+        "id": "outfit-griamore-impregnable_iron_fortress",
+        "name": "Impregnable Iron Fortress",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
       }
     ]
   },
@@ -704,6 +734,16 @@
         "name": "Shadow of the Deep Forest",
         "recipe": {
           "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-king-fairy_king_s_shadow",
+        "name": "Fairy King's Shadow",
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         },
@@ -1107,7 +1147,7 @@
       },
       {
         "id": "outfit-merlin-the_boar_sin_of_gluttony",
-        "name": "The Boar Sin of Gluttony",
+        "name": "<The Boar Sin of Gluttony>",
         "recipe": {
           "kit": "twisted-wish",
           "seal": "brilliant",
@@ -1171,6 +1211,16 @@
         "acquired": false
       },
       {
+        "id": "outfit-elizabeth-light_of_liones",
+        "name": "Light Of Liones",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
         "name": "The Princess Who Regained Her Memory",
         "recipe": null,
@@ -1204,6 +1254,16 @@
         "name": "<The Goat Sin of Lust>",
         "recipe": {
           "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-gowther-minimal_defense",
+        "name": "Minimal Defense",
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         },
@@ -1249,8 +1309,67 @@
         "acquired": false
       },
       {
+        "id": "outfit-derieri-rebellious_movement",
+        "name": "Rebellious Movement",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
         "id": "outfit-derieri-red_flame_of_the_demon_realm",
         "name": "Red Flame of the Demon Realm",
+        "recipe": null,
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "id": "hero-ban",
+    "name": "Ban",
+    "acquired": false,
+    "outfits": [
+      {
+        "id": "outfit-ban-undying_bandit",
+        "name": "Undying Bandit",
+        "recipe": null,
+        "acquired": false
+      },
+      {
+        "id": "outfit-ban-temporary_cook",
+        "name": "Temporary Cook",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-ban-the_fox_sin_of_greed",
+        "name": "<The Fox Sin of Greed>",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-ban-jaunty_maraunder",
+        "name": "Jaunty Maraunder",
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-ban-irreverent_holy_knight",
+        "name": "Irreverent Holy Knight",
         "recipe": null,
         "acquired": false
       }

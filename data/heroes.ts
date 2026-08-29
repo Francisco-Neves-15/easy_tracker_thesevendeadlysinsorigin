@@ -1176,7 +1176,7 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
-        "id": "outfit-dreyfus-fairy_king_s_shadow",
+        "id": "outfit-king-fairy_king_s_shadow",
         "name": "Fairy King's Shadow",
         "rarity": "legendary",
         "observation": null,

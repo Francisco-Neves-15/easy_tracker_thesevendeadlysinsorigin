@@ -44,6 +44,11 @@ export const all_recipeKits: Model_RecipeKit[] = [
 		"id": "corroded-desire",
 		"rarity": "legendary",
 		"name": "Corroded Desire"
+	},
+	{
+		"id": "destroyer-obsession",
+		"rarity": "legendary",
+		"name": "Destroyer Obsession"
 	}
 ];
 

@@ -332,6 +332,22 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         }
+      },
+      {
+        "id": "outfit-howzer-grandmaster_s_dignity",
+        "name": "Grandmaster's Dignity",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
       }
     ]
   },
@@ -465,6 +481,22 @@
         "isEngraved": true,
         "recipe": {
           "kit": "star-guardian",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-bug-keen_instinct",
+        "name": "Keen Instinct",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         }
@@ -972,6 +1004,22 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         }
+      },
+      {
+        "id": "outfit-griamore-impregnable_iron_fortress",
+        "name": "Impregnable Iron Fortress",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
       }
     ]
   },
@@ -1121,6 +1169,22 @@
         "isEngraved": true,
         "recipe": {
           "kit": "revived-nightmare",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-king-fairy_king_s_shadow",
+        "name": "Fairy King's Shadow",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         }
@@ -1923,6 +1987,22 @@
         }
       },
       {
+        "id": "outfit-elizabeth-light_of_liones",
+        "name": "Light Of Liones",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
         "name": "The Princess Who Regained Her Memory",
         "rarity": "legendary",
@@ -1987,6 +2067,22 @@
         "isEngraved": true,
         "recipe": {
           "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-gowther-minimal_defense",
+        "name": "Minimal Defense",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
           "seal": "brilliant",
           "metal": "magic-infused"
         }
@@ -2061,6 +2157,22 @@
         }
       },
       {
+        "id": "outfit-derieri-rebellious_movement",
+        "name": "Rebellious Movement",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
         "id": "outfit-derieri-red_flame_of_the_demon_realm",
         "name": "Red Flame of the Demon Realm",
         "rarity": "legendary",
@@ -2070,6 +2182,91 @@
         "isExclusive": true,
         "infoExclusive": {
           "title": "Crimson Flame Fighting Spirit",
+          "description": "Top Tier Reward",
+          "type": "banner",
+          "typeEvent": null
+        },
+        "isEngraved": false,
+        "recipe": null
+      }
+    ]
+  },
+  {
+    "id": "hero-ban",
+    "name": "Ban",
+    "rarity": "legendary",
+    "observation": null,
+    "outfits": [
+      {
+        "id": "outfit-ban-undying_bandit",
+        "name": "Undying Bandit",
+        "rarity": "hero",
+        "observation": null,
+        "isDefault": true,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
+        "id": "outfit-ban-temporary_cook",
+        "name": "Temporary Cook",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-the_fox_sin_of_greed",
+        "name": "<The Fox Sin of Greed>",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-jaunty_maraunder",
+        "name": "Jaunty Maraunder",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-irreverent_holy_knight",
+        "name": "Irreverent Holy Knight",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "Ready for Battle",
           "description": "Top Tier Reward",
           "type": "banner",
           "typeEvent": null
