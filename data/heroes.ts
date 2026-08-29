@@ -2108,7 +2108,7 @@ export const all_heroes: Model_Hero[] = [
       }
     ]
   },
-  { !
+  {
     "id": "hero-derieri",
     "name": "Derieri",
     "rarity": "legendary",
@@ -2200,8 +2200,8 @@ export const all_heroes: Model_Hero[] = [
     "observation": null,
     "outfits": [
       {
-        "id": "outfit-ban-ban_of_purity",
-        "name": "Ban of 「Purity」",
+        "id": "outfit-ban-undying_bandit",
+        "name": "Undying Bandit",
         "rarity": "hero",
         "observation": null,
         "isDefault": true,
@@ -2212,24 +2212,8 @@ export const all_heroes: Model_Hero[] = [
         "recipe": null
       },
       {
-        "id": "outfit-ban-minimal_courtesy",
-        "name": "Minimal Courtesy",
-        "rarity": "legendary",
-        "observation": null,
-        "isDefault": false,
-        "isAppearance": false,
-        "isExclusive": false,
-        "infoExclusive": null,
-        "isEngraved": true,
-        "recipe": {
-          "kit": "ferocius-watchers",
-          "seal": "brilliant",
-          "metal": "magic-infused"
-        }
-      },
-      {
-        "id": "outfit-ban-resistance_and_revolution",
-        "name": "Resistance and Revolution",
+        "id": "outfit-ban-temporary_cook",
+        "name": "Temporary Cook",
         "rarity": "legendary",
         "observation": null,
         "isDefault": false,
@@ -2244,15 +2228,47 @@ export const all_heroes: Model_Hero[] = [
         }
       },
       {
-        "id": "outfit-ban-red_flame_of_the_demon_realm",
-        "name": "Red Flame of the Demon Realm",
+        "id": "outfit-ban-the_fox_sin_of_greed",
+        "name": "<The Fox Sin of Greed>",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-jaunty_maraunder",
+        "name": "Jaunty Maraunder",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-ban-irreverent_holy_knight",
+        "name": "Irreverent Holy Knight",
         "rarity": "legendary",
         "observation": null,
         "isDefault": false,
         "isAppearance": true,
         "isExclusive": true,
         "infoExclusive": {
-          "title": "Crimson Flame Fighting Spirit",
+          "title": "Ready for Battle",
           "description": "Top Tier Reward",
           "type": "banner",
           "typeEvent": null
