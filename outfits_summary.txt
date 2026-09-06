@@ -5,9 +5,9 @@
 ===========================================================================
 Star Fragments from Outfits | Total       | Acquired    | Remaining
 ===========================================================================
-Engraved                    |      48.000 |      16.000 |      32.000
+Engraved                    |      48.000 |      19.500 |      28.500
 Exclusive                   |       6.500 |       1.000 |       5.500
-Total                       |      54.500 |      17.000 |      37.500
+Total                       |      54.500 |      20.500 |      34.000
 ===========================================================================
 
 ==================================================
@@ -22,13 +22,11 @@ Total                       |      54.500 |      17.000 |      37.500
 --------------------------------------------------
 [Hero]: Tioreh (Acquired)
   Clothing Pending:
-    - Casual Outing (Kit: fiery-essence, Seal: sturdy)
     - Daughter of the Forest and Earth (Kit: star-guardian, Seal: brilliant)
     - Fairy's Protection (Kit: twisted-wish, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Gilthunder (Acquired)
   Clothing Pending:
-    - Exemplary Holy Knight (Kit: fiery-essence, Seal: sturdy)
     - Holy Knight of Lightning (Kit: star-guardian, Seal: brilliant)
     - Exemplary Adventure (Kit: revived-nightmare, Seal: brilliant)
     - Promising Holy Knight (Kit: corroded-desire, Seal: brilliant)
@@ -52,7 +50,6 @@ Total                       |      54.500 |      17.000 |      37.500
 --------------------------------------------------
 [Hero]: Elaine (Acquired)
   Clothing Pending:
-    - Temp Employee (Kit: thunderous, Seal: sturdy)
     - Guiding Light (Kit: star-guardian, Seal: brilliant)
     - Cheerful Outing (Kit: revived-nightmare, Seal: brilliant)
     - Saintess's Dignity (Kit: corroded-desire, Seal: brilliant)
@@ -71,7 +68,6 @@ Total                       |      54.500 |      17.000 |      37.500
 --------------------------------------------------
 [Hero]: Slater (Acquired)
   Clothing Pending:
-    - Loyal Friend (Kit: fiery-essence, Seal: sturdy)
     - Sword of the Old King (Kit: star-guardian, Seal: brilliant)
     - Secret Mission (Kit: revived-nightmare, Seal: brilliant)
     - Total Readiness (Kit: twisted-wish, Seal: brilliant)
@@ -104,7 +100,6 @@ Total                       |      54.500 |      17.000 |      37.500
 [Hero]: Diane (Acquired)
   Clothing Pending:
     - Tavern Hostess (Kit: thunderous, Seal: sturdy)
-    - <The Serpent Sin of Envy> (Kit: star-guardian, Seal: brilliant)
     - Spiked Combat Outfit (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Drake (Acquired)
@@ -156,14 +151,11 @@ Total                       |      54.500 |      17.000 |      37.500
 [Hero]: Derieri (Acquired)
   Clothing Pending:
     - Resistance and Revolution (Kit: corroded-desire, Seal: brilliant)
-    - Rebellious Movement (Kit: destroyer-obsession, Seal: brilliant)
     - Red Flame of the Demon Realm (Appearance Only)
 --------------------------------------------------
-[Hero]: Ban (Not Acquired)
+[Hero]: Ban (Acquired)
   Clothing Pending:
-    - Undying Bandit (Appearance Only)
     - Temporary Cook (Kit: corroded-desire, Seal: brilliant)
     - <The Fox Sin of Greed> (Kit: destroyer-obsession, Seal: brilliant)
-    - Jaunty Maraunder (Kit: ferocius-watchers, Seal: brilliant)
     - Irreverent Holy Knight (Appearance Only)
 --------------------------------------------------

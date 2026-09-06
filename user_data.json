@@ -81,7 +81,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-tioreh-daughter_of_the_forest_and_earth",
@@ -134,7 +134,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-gilthunder-holy_knight_of_lightning",
@@ -346,7 +346,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-elaine-guiding_light",
@@ -505,7 +505,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-slater-sword_of_the_old_king",
@@ -780,7 +780,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-diane-cheerful_girl",
@@ -1316,7 +1316,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-derieri-red_flame_of_the_demon_realm",
@@ -1329,13 +1329,13 @@
   {
     "id": "hero-ban",
     "name": "Ban",
-    "acquired": false,
+    "acquired": true,
     "outfits": [
       {
         "id": "outfit-ban-undying_bandit",
         "name": "Undying Bandit",
         "recipe": null,
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-ban-temporary_cook",
@@ -1365,7 +1365,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-ban-irreverent_holy_knight",
