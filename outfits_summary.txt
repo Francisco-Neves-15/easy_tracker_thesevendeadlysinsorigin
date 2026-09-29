@@ -5,9 +5,9 @@
 ===========================================================================
 Star Fragments from Outfits | Total       | Acquired    | Remaining
 ===========================================================================
-Engraved                    |      48.000 |      19.500 |      28.500
-Exclusive                   |       6.500 |       1.000 |       5.500
-Total                       |      54.500 |      20.500 |      34.000
+Engraved                    |      49.500 |      24.500 |      25.000
+Exclusive                   |       7.500 |       1.500 |       6.000
+Total                       |      57.000 |      26.000 |      31.000
 ===========================================================================
 
 ==================================================
@@ -50,9 +50,7 @@ Total                       |      54.500 |      20.500 |      34.000
 --------------------------------------------------
 [Hero]: Elaine (Acquired)
   Clothing Pending:
-    - Guiding Light (Kit: star-guardian, Seal: brilliant)
     - Cheerful Outing (Kit: revived-nightmare, Seal: brilliant)
-    - Saintess's Dignity (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
 [Hero]: Dreyfus (Acquired)
   Clothing Pending:
@@ -74,7 +72,6 @@ Total                       |      54.500 |      20.500 |      34.000
 --------------------------------------------------
 [Hero]: Guila (Acquired)
   Clothing Pending:
-    - Family Time (Kit: thunderous, Seal: sturdy)
     - Holy Knight of Explosions (Kit: star-guardian, Seal: brilliant)
     - Light Footsteps (Kit: revived-nightmare, Seal: brilliant)
     - Crimson Flame's Trail (Kit: twisted-wish, Seal: brilliant)
@@ -87,7 +84,6 @@ Total                       |      54.500 |      20.500 |      34.000
 --------------------------------------------------
 [Hero]: Jericho (Acquired)
   Clothing Pending:
-    - Leisurely Moment (Kit: thunderous, Seal: sturdy)
     - Secretive Traveler (Kit: revived-nightmare, Seal: brilliant)
     - Trace of Memories (Kit: ferocius-watchers, Seal: brilliant)
 --------------------------------------------------
@@ -97,14 +93,8 @@ Total                       |      54.500 |      20.500 |      34.000
     - Shadow of the Deep Forest (Kit: revived-nightmare, Seal: brilliant)
     - Fairy King's Shadow (Kit: destroyer-obsession, Seal: brilliant)
 --------------------------------------------------
-[Hero]: Diane (Acquired)
-  Clothing Pending:
-    - Tavern Hostess (Kit: thunderous, Seal: sturdy)
-    - Spiked Combat Outfit (Kit: corroded-desire, Seal: brilliant)
---------------------------------------------------
 [Hero]: Drake (Acquired)
   Clothing Pending:
-    - Oath of the Throne (Kit: thunderous, Seal: sturdy)
     - Glory of the Past (Kit: star-guardian, Seal: brilliant)
     - Imperial Knight (Kit: corroded-desire, Seal: brilliant)
 --------------------------------------------------
@@ -141,7 +131,6 @@ Total                       |      54.500 |      20.500 |      34.000
 --------------------------------------------------
 [Hero]: Elizabeth (Acquired)
   Clothing Pending:
-    - Light Of Liones (Kit: destroyer-obsession, Seal: brilliant)
     - The Princess Who Regained Her Memory (Appearance Only)
 --------------------------------------------------
 [Hero]: Gowther (Acquired)
@@ -155,7 +144,13 @@ Total                       |      54.500 |      20.500 |      34.000
 --------------------------------------------------
 [Hero]: Ban (Acquired)
   Clothing Pending:
-    - Temporary Cook (Kit: corroded-desire, Seal: brilliant)
-    - <The Fox Sin of Greed> (Kit: destroyer-obsession, Seal: brilliant)
     - Irreverent Holy Knight (Appearance Only)
+--------------------------------------------------
+[Hero]: Khala (Not Acquired)
+  Clothing Pending:
+    - Nimble Activewear (Appearance Only)
+    - Ultralight Work Clothes (Kit: destroyer-obsession, Seal: brilliant)
+    - Full Preparation (Kit: ferocius-watchers, Seal: brilliant)
+    - Model Citizen (Kit: corroded-desire, Seal: brilliant)
+    - A Grand Thief's Dignity (Appearance Only)
 --------------------------------------------------

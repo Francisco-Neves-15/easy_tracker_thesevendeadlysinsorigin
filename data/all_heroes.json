@@ -2003,6 +2003,23 @@
         }
       },
       {
+        "id": "outfit-elizabeth-the_princess_s_resolve",
+        "name": "The Princess's Resolve",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "Vanya Village Ale Festival",
+          "description": "Core Reward",
+          "type": "event",
+          "typeEvent": "recurringMissions"
+        },
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
         "name": "The Princess Who Regained Her Memory",
         "rarity": "legendary",
@@ -2267,6 +2284,91 @@
         "isExclusive": true,
         "infoExclusive": {
           "title": "Ready for Battle",
+          "description": "Top Tier Reward",
+          "type": "banner",
+          "typeEvent": null
+        },
+        "isEngraved": false,
+        "recipe": null
+      }
+    ]
+  },
+  {
+    "id": "hero-khala",
+    "name": "Khala",
+    "rarity": "legendary",
+    "observation": null,
+    "outfits": [
+      {
+        "id": "outfit-khala-nimble_activewear",
+        "name": "Nimble Activewear",
+        "rarity": "hero",
+        "observation": null,
+        "isDefault": true,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": false,
+        "recipe": null
+      },
+      {
+        "id": "outfit-khala-ultralight_work_clothes",
+        "name": "Ultralight Work Clothes",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-khala-full_preparation",
+        "name": "Full Preparation",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-khala-model_citizen",
+        "name": "Model Citizen",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": false,
+        "isExclusive": false,
+        "infoExclusive": null,
+        "isEngraved": true,
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        }
+      },
+      {
+        "id": "outfit-khala-a_grand_thief_s_dignity",
+        "name": "A Grand Thief's Dignity",
+        "rarity": "legendary",
+        "observation": null,
+        "isDefault": false,
+        "isAppearance": true,
+        "isExclusive": true,
+        "infoExclusive": {
+          "title": "Ravens's Thief of Honor",
           "description": "Top Tier Reward",
           "type": "banner",
           "typeEvent": null

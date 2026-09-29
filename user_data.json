@@ -356,7 +356,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-elaine-cheerful_outing",
@@ -376,7 +376,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       }
     ]
   },
@@ -558,7 +558,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-guila-holy_knight_of_explosions",
@@ -664,7 +664,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-jericho-holy_knight_with_the_star_shaped_visor",
@@ -770,7 +770,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-diane-the_serpent_sin_of_envy",
@@ -800,7 +800,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       }
     ]
   },
@@ -823,7 +823,7 @@
           "seal": "sturdy",
           "metal": null
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-drake-glory_of_the_past",
@@ -1218,7 +1218,13 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
+      },
+      {
+        "id": "outfit-elizabeth-the_princess_s_resolve",
+        "name": "The Princess's Resolve",
+        "recipe": null,
+        "acquired": true
       },
       {
         "id": "outfit-elizabeth-the_princess_who_regained_her_memory",
@@ -1345,7 +1351,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-ban-the_fox_sin_of_greed",
@@ -1355,7 +1361,7 @@
           "seal": "brilliant",
           "metal": "magic-infused"
         },
-        "acquired": false
+        "acquired": true
       },
       {
         "id": "outfit-ban-jaunty_maraunder",
@@ -1370,6 +1376,55 @@
       {
         "id": "outfit-ban-irreverent_holy_knight",
         "name": "Irreverent Holy Knight",
+        "recipe": null,
+        "acquired": false
+      }
+    ]
+  },
+  {
+    "id": "hero-khala",
+    "name": "Khala",
+    "acquired": false,
+    "outfits": [
+      {
+        "id": "outfit-khala-nimble_activewear",
+        "name": "Nimble Activewear",
+        "recipe": null,
+        "acquired": false
+      },
+      {
+        "id": "outfit-khala-ultralight_work_clothes",
+        "name": "Ultralight Work Clothes",
+        "recipe": {
+          "kit": "destroyer-obsession",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-khala-full_preparation",
+        "name": "Full Preparation",
+        "recipe": {
+          "kit": "ferocius-watchers",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-khala-model_citizen",
+        "name": "Model Citizen",
+        "recipe": {
+          "kit": "corroded-desire",
+          "seal": "brilliant",
+          "metal": "magic-infused"
+        },
+        "acquired": false
+      },
+      {
+        "id": "outfit-khala-a_grand_thief_s_dignity",
+        "name": "A Grand Thief's Dignity",
         "recipe": null,
         "acquired": false
       }
